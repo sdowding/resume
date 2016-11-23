@@ -53,13 +53,14 @@ Some of the more relevant business initiatives and responsibilities are:
 * Enhanced the Online and Mobile Banking response times by identifying bottlenecks and applying an asynchronous and responsive approach.
 * Provide 24/7 on-call support for the online banking system.
 
-**Technologies:** 
+**Technologies and Tools:** 
 `.NET`, `ASP.NET MVC`, `ASP.NET WebForms`, `C#`, `JavaScript`, `jQuery`, `JSON`, `CSS`, `Responsive Design`, `HTML 5`, `REST`, `SOAP`, `Unit Testing`,
-`SVN`, `Jenkins`, `Continuous Deployment (CI)`
-`Microservices`, `Domain Driven Design (DDD)`, 
+`SVN`, `Jenkins`, 
 `Microsoft SQL Server`, `SQL Server Profile`
 
-**Process Methologies:** 
+**Methologies, Architectures, Patterns:** 
+`Continuous Deployment (CI)`,
+`Microservices`, `Domain Driven Design (DDD)`, 
 `Extream Programming (XP)`, `Paired Programming`, `Scrum`, `Agile`
 
 
