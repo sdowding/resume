@@ -54,7 +54,7 @@ Some of the more relevant business initiatives and responsibilities are:
 * Provide 24/7 on-call support for the online banking system.
 
 **Technologies:** 
-`.NET`, `ASP.NET MVC`, `ASP.NET WebForms`, `C#`, `JavaScript`, `jQuery`, `CSS`, `Responsive Design`, 
+`.NET`, `ASP.NET MVC`, `ASP.NET WebForms`, `C#`, `JavaScript`, `jQuery`, `JSON`, `CSS`, `Responsive Design`, `HTML 5`, `REST`, `SOAP`, 
 `Microsoft SQL Server`, `SQL Server Profile`
 
 **Methodologies:** 
