@@ -2,7 +2,7 @@
 dowding@gmail.com  | 780-932-2070
 
 ## Summary
-- - - -
+
 Currently designing and developing cloud based modern web and mobile solutions for ATB Financial using the latest technologies and techniques such as extreme programming, AngularJS, NPM, JWT, microservices, REST, git, SASS, TDD, and automated green/blue deployments.
 
 * Over 7 years of architecting, designing, and developing enterprise business solution for ATCO, an Alberta Based Gas and Electrical Utility.
@@ -11,6 +11,7 @@ Currently designing and developing cloud based modern web and mobile solutions f
 * 1 year of experience in mobile web and application development for iOS / iPhone with Objective-C.
 
 ###Languages, Frameworks & APIs
+
 * .NET Framework version 2.0 to 4.5 using C#, ADO.NET, LINQ
 * ASP.NET WebForms, MVP, ASP.NET MVC 2.0, MVVM, Windows Forms, ADO.NET, Web Services (WSDL), PowerShell, HTML, HTML5, XHTML, 
 * AngularJS, SASS, AJAX, HTML, CSS, JavaScript, jQuery, Twitter Bootstrap, XML, XSLT, XPath
@@ -18,15 +19,18 @@ Currently designing and developing cloud based modern web and mobile solutions f
 * Xcode, Objective-C, iOS, Storyboards, FMDB, App Store & Enterprise Deployment
 
 ### Databases
+
 * Oracle 11g, Microsoft SQL Server, IBM DB2, Access, SQL, PL/SQL, Stored Procedures, SQLite
 
 ### Methodologies & Concepts
+
 * Object Oriented Analysis and Design, Design Patterns
 * Agile (SCRUM), Test Driven Development (TDD), Continuous Integration (CI)
 * Microservices, N-Tiered Architecture, Service Oriented Architecture (SOA), Messaging, Pub/Sub
 * Single Page Web Applications (SPA)
 
 ### Software
+
 * Visual Studio 2005/2008/2010/2013, Team Foundation Server (TFS)
 * GIT, Subversion (SVN), NAnt, NDoc, NUnit, TortoiseSVN, VisualSVN, ReSharper
 * Quest Toad (Oracle / DB2)
@@ -34,6 +38,7 @@ Currently designing and developing cloud based modern web and mobile solutions f
 * Crystal Reports, Active Reports
 
 ## Work History
+
 ### Programmer Analyst, ATB Financial	
 **April 2015 - Present, Edmonton AB/Toronto ON** 
 
@@ -50,6 +55,7 @@ Some of the more relevant business initiatives and responsibilities are:
 
 ### Senior System Analyst, ATCO I-Tek	
 **Aug 2007 – April 2015, Edmonton AB** 
+
 Participating in the full application lifecycle of business critical, n-tier, enterprise applications. Including new development, ongoing maintenance, enhancements, testing, and deployment. Projects included pipeline measurement and reporting, work order management, automatic time card generation, and meter data management systems for Alberta and Ontario Electrical utilities. System development was done using Agile (SCRUM) and waterfall methodologies.
 
 * Designing, developing, maintaining and enhancing custom build technical solutions using C#, Windows Forms, ASP.NET MVC, ASP.NET Web Forms, Web Services, XML, HTML, XPath, Oracle Databases, Twitter Bootstrap, CSS, and jQuery.  
@@ -69,6 +75,7 @@ Participating in the full application lifecycle of business critical, n-tier, en
 
 ### Team Lead / Developer, Upside Software
 **Sep 2005 - Aug 2007, Edmonton AB** 
+
 Managed teams of developers, created requirement and design documentation as well as timeline estimates and project plans. Made major contributions to the design and development of the company’s main application component. System development was done using Agile (SCRUM) and waterfall methodologies.
 
 * Received a Development MVP award within 9 months of joining the company.
@@ -83,6 +90,7 @@ Managed teams of developers, created requirement and design documentation as wel
 
 ### .NET Application Developer, Basic Frame
 **May 2004 - Sep 2005, Edmonton AB** 
+
 Planned, developed, implemented and provided support for web applications, custom server controls, and web services. Provided guidance with respects to project architecture, source control and naming conventions based on industry standards.
 
 * Developed a web based festival management system as part of a team of two developers. The application provides web based event scheduling and resource management. The project also included an extensive reporting section, which utilizes Crystal Reports and a public Web Service API.
@@ -90,6 +98,7 @@ Planned, developed, implemented and provided support for web applications, custo
 
 ### Web Application Developer, Refined Logic	
 **Sep 2003 - Apr 2004, Prince George BC** 
+
 Contributed to the design and development the company’s products. Migrated ASP applications to ASP.NET / C#. Made architectural decisions regarding product design. Developed data-driven web applications as well as design web based user interfaces.
 
 * Built a web based framework that allows users to build and manage multiple data centric web applications from a single administrative interface. Developed using the .NET Framework, C#, XML, XPath, XSLT, JavaScript, SQL Server 2000.
@@ -97,7 +106,8 @@ Contributed to the design and development the company’s products. Migrated ASP
 * Developed a data management and reporting application that allows over 160 users to update, share, and compare over 1,000,000 records of critical forest health data using ASP.NET and SQL Server 2000.
 
 ### Web Developer, Floating Rock
-**Sep 1999 – Sep 2003, Prince George BC** 
+**Sep 1999 – Sep 2003, Prince George BC**
+ 
 Designed user interfaces for applications and websites. Developed data-driven and e-commerce web solutions. Converted existing ASP/VBScript based components to ASP.NET/C#. 
 
 * Architected and developed the company's first 100% .NET application
@@ -106,15 +116,17 @@ Designed user interfaces for applications and websites. Developed data-driven an
 * Many of my projects lead to repeat business as well as multiple referrals.
 
 ## Education
-- - - 
+
 ### Computer Systems Technology Diploma
+
 Northern Alberta Institute of Technology (NAIT) 
 
 ## Personal Projects
----
-### iPhone Application Development
+
+###iPhone Application Development
+
 I have developed an Objective-C iOS application using City of Edmonton open data and SQLIte. The application, which is local in scope, is deployed in the Apple iOS App Store with over 10,000 downloads and more than 100 active users.
 
 ## References
-- - - 
+
 References will be provided upon request.
