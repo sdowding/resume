@@ -53,9 +53,9 @@ Some of the more relevant business initiatives and responsibilities are:
 * Enhanced the Online and Mobile Banking response times by identifying bottlenecks and applying an asynchronous and responsive approach.
 * Provide 24/7 on-call support for the online banking system.
 
-`.NET`, `ASP.NET MVC`, `ASP.NET WebForms`, `C#`, `JavaScript`, `jQuery`, `CSS`, `Responsive Design`, 
+Technologies: `.NET`, `ASP.NET MVC`, `ASP.NET WebForms`, `C#`, `JavaScript`, `jQuery`, `CSS`, `Responsive Design`, 
 `Microsoft SQL Server`, `SQL Server Profile`, 
-`Extream Programming (XP)`, `Paired Programming`, `Scrum`, `Agile`
+Methodologies: `Extream Programming (XP)`, `Paired Programming`, `Scrum`, `Agile`
 
 
 ### Senior System Analyst, ATCO I-Tek	
