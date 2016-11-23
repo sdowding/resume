@@ -1,5 +1,5 @@
 # Scott Dowding 	
-dowding@gmail.com  | 780-932-2070
+Edmonton, Alberta, Canada | dowding@gmail.com  | 780-932-2070
 
 ## Summary
 
