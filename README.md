@@ -44,13 +44,6 @@ Currently designing and developing cloud based modern web and mobile solutions f
 
 Currently in charge of team coordination, technical design, development and implementation of multiple business initiatives related to the Online Banking and Mobile Applications.
 
->**Technologies:** 
->`.NET`, `ASP.NET MVC`, `ASP.NET WebForms`, `C#`, `JavaScript`, `jQuery`, `JSON`, `CSS`, `Responsive Design`, `HTML 5`, `REST`, `SOAP`, 
-`Microsoft SQL Server`, `SQL Server Profile`
-
->**Methodologies:** 
->`Extream Programming (XP)`, `Paired Programming`, `Scrum`, `Agile`
-
 Some of the more relevant business initiatives and responsibilities are:
 
 * Working with Pivotal labs in Toronto on a fintec project focusing on online investment for consumers. The application consists of an AngularJS frontend, with a stateless Java based REST backend.
