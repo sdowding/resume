@@ -40,7 +40,7 @@
 ## Work History
 
 ### Programmer Analyst, ATB Financial	
-####April 2015 - Present, Edmonton AB/Toronto ON
+#####April 2015 - Present, Edmonton AB/Toronto ON
 
 Currently in charge of team coordination, technical design, development and implementation of multiple business initiatives related to the Online Banking and Mobile Applications.
 
@@ -54,7 +54,7 @@ Some of the more relevant business initiatives and responsibilities are:
 * Provide 24/7 on-call support for the online banking system.
 
 ### Senior System Analyst, ATCO I-Tek	
-####Aug 2007 – April 2015, Edmonton AB
+######Aug 2007 – April 2015, Edmonton AB
 
 Participating in the full application lifecycle of business critical, n-tier, enterprise applications. Including new development, ongoing maintenance, enhancements, testing, and deployment. Projects included pipeline measurement and reporting, work order management, automatic time card generation, and meter data management systems for Alberta and Ontario Electrical utilities. System development was done using Agile (SCRUM) and waterfall methodologies.
 
