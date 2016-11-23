@@ -4,8 +4,10 @@ Edmonton, Alberta, Canada | dowding@gmail.com  | 780-932-2070
 ## Summary
 
 ```
-Currently designing and developing cloud based modern web and mobile solutions for ATB Financial using the latest technologies and techniques such as extreme programming, AngularJS, NPM, JWT, microservices, REST, git, SASS, TDD, and automated green/blue deployments.
+Currently designing and developing cloud based modern web and mobile solutions for ATB Financial 
 ```
+
+Using the latest technologies and techniques such as extreme programming, AngularJS, NPM, JWT, microservices, REST, git, SASS, TDD, and automated green/blue deployments.
 
 * Over 7 years of architecting, designing, and developing enterprise business solution for ATCO, an Alberta Based Gas and Electrical Utility.
 * 15 years of experience in information technology delivering solutions using the Microsoft technology stack.
