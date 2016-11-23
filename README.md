@@ -40,7 +40,7 @@
 ## Work History
 
 ### Programmer Analyst, ATB Financial	
-#####April 2015 - Present, Edmonton AB/Toronto ON
+######April 2015 - Present, Edmonton AB/Toronto ON
 
 Currently in charge of team coordination, technical design, development and implementation of multiple business initiatives related to the Online Banking and Mobile Applications.
 
@@ -74,7 +74,7 @@ Participating in the full application lifecycle of business critical, n-tier, en
 * Preparing documentation for software architecture, use cases, data models, sequence diagrams, class diagrams and other UML diagrams, solution designs, detailed technical specifications, impact analysis, and application integration mapping documents. 
 
 ### Team Lead / Developer, Upside Software
-####Sep 2005 - Aug 2007, Edmonton AB
+######Sep 2005 - Aug 2007, Edmonton AB
 
 Managed teams of developers, created requirement and design documentation as well as timeline estimates and project plans. Made major contributions to the design and development of the company’s main application component. System development was done using Agile (SCRUM) and waterfall methodologies.
 
@@ -89,7 +89,7 @@ Managed teams of developers, created requirement and design documentation as wel
 * Developed an Ajax-based online document editor, one of the unique selling points of the company’s application, using JavaScript, C#, Web Services, HTML, CSS, XML, XPath, and MS SQL Server.
 
 ### .NET Application Developer, Basic Frame
-####May 2004 - Sep 2005, Edmonton AB
+######May 2004 - Sep 2005, Edmonton AB
 
 Planned, developed, implemented and provided support for web applications, custom server controls, and web services. Provided guidance with respects to project architecture, source control and naming conventions based on industry standards.
 
@@ -97,7 +97,7 @@ Planned, developed, implemented and provided support for web applications, custo
 * Created a custom redistributable date picker ASP.NET server web control using C# and JavaScript. Deployed as an MSI. The control was an overnight success and within weeks of its 1.0 release it was voted second in its category for an ASP.NET Pro Reader's Choice Award.
 
 ### Web Application Developer, Refined Logic	
-####Sep 2003 - Apr 2004, Prince George BC
+######Sep 2003 - Apr 2004, Prince George BC
 
 Contributed to the design and development the company’s products. Migrated ASP applications to ASP.NET / C#. Made architectural decisions regarding product design. Developed data-driven web applications as well as design web based user interfaces.
 
@@ -106,7 +106,7 @@ Contributed to the design and development the company’s products. Migrated ASP
 * Developed a data management and reporting application that allows over 160 users to update, share, and compare over 1,000,000 records of critical forest health data using ASP.NET and SQL Server 2000.
 
 ### Web Developer, Floating Rock
-####Sep 1999 – Sep 2003, Prince George BC
+######Sep 1999 – Sep 2003, Prince George BC
  
 Designed user interfaces for applications and websites. Developed data-driven and e-commerce web solutions. Converted existing ASP/VBScript based components to ASP.NET/C#. 
 
