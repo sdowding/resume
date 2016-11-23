@@ -1,16 +1,16 @@
 # Scott Dowding 	
-####Edmonton, Alberta, Canada | dowding@gmail.com  | 780-932-2070
+#### Edmonton, Alberta, Canada | dowding@gmail.com  | 780-932-2070
 
 ## Summary
 
->Currently designing and developing cloud based modern web and mobile solutions for ATB Financial using the latest technologies and techniques such as extreme programming, AngularJS, NPM, JWT, microservices, REST, git, SASS, TDD, and automated green/blue deployments.
+Currently designing and developing cloud based modern web and mobile solutions for ATB Financial using the latest technologies and techniques such as extreme programming, AngularJS, NPM, JWT, microservices, REST, git, SASS, TDD, and automated green/blue deployments.
 
 * Over 7 years of architecting, designing, and developing enterprise business solution for ATCO, an Alberta Based Gas and Electrical Utility.
 * 15 years of experience in information technology delivering solutions using the Microsoft technology stack.
 * 7 years of experience in enterprise application development.  
 * 1 year of experience in mobile web and application development for iOS / iPhone with Objective-C.
 
-###Languages, Frameworks & APIs
+### Languages, Frameworks & APIs
 
 * .NET Framework version 2.0 to 4.5 using C#, ADO.NET, LINQ
 * ASP.NET WebForms, MVP, ASP.NET MVC 2.0, MVVM, Windows Forms, ADO.NET, Web Services (WSDL), PowerShell, HTML, HTML5, XHTML, 
@@ -40,7 +40,7 @@
 ## Work History
 
 ### Programmer Analyst, ATB Financial	
-######April 2015 - Present, Edmonton AB/Toronto ON
+###### April 2015 - Present, Edmonton AB/Toronto ON
 
 Currently in charge of team coordination, technical design, development and implementation of multiple business initiatives related to the Online Banking and Mobile Applications.
 
@@ -54,7 +54,7 @@ Some of the more relevant business initiatives and responsibilities are:
 * Provide 24/7 on-call support for the online banking system.
 
 ### Senior System Analyst, ATCO I-Tek	
-######Aug 2007 – April 2015, Edmonton AB
+###### Aug 2007 – April 2015, Edmonton AB
 
 Participating in the full application lifecycle of business critical, n-tier, enterprise applications. Including new development, ongoing maintenance, enhancements, testing, and deployment. Projects included pipeline measurement and reporting, work order management, automatic time card generation, and meter data management systems for Alberta and Ontario Electrical utilities. System development was done using Agile (SCRUM) and waterfall methodologies.
 
@@ -74,7 +74,7 @@ Participating in the full application lifecycle of business critical, n-tier, en
 * Preparing documentation for software architecture, use cases, data models, sequence diagrams, class diagrams and other UML diagrams, solution designs, detailed technical specifications, impact analysis, and application integration mapping documents. 
 
 ### Team Lead / Developer, Upside Software
-######Sep 2005 - Aug 2007, Edmonton AB
+###### Sep 2005 - Aug 2007, Edmonton AB
 
 Managed teams of developers, created requirement and design documentation as well as timeline estimates and project plans. Made major contributions to the design and development of the company’s main application component. System development was done using Agile (SCRUM) and waterfall methodologies.
 
@@ -89,7 +89,7 @@ Managed teams of developers, created requirement and design documentation as wel
 * Developed an Ajax-based online document editor, one of the unique selling points of the company’s application, using JavaScript, C#, Web Services, HTML, CSS, XML, XPath, and MS SQL Server.
 
 ### .NET Application Developer, Basic Frame
-######May 2004 - Sep 2005, Edmonton AB
+###### May 2004 - Sep 2005, Edmonton AB
 
 Planned, developed, implemented and provided support for web applications, custom server controls, and web services. Provided guidance with respects to project architecture, source control and naming conventions based on industry standards.
 
@@ -97,7 +97,7 @@ Planned, developed, implemented and provided support for web applications, custo
 * Created a custom redistributable date picker ASP.NET server web control using C# and JavaScript. Deployed as an MSI. The control was an overnight success and within weeks of its 1.0 release it was voted second in its category for an ASP.NET Pro Reader's Choice Award.
 
 ### Web Application Developer, Refined Logic	
-######Sep 2003 - Apr 2004, Prince George BC
+###### Sep 2003 - Apr 2004, Prince George BC
 
 Contributed to the design and development the company’s products. Migrated ASP applications to ASP.NET / C#. Made architectural decisions regarding product design. Developed data-driven web applications as well as design web based user interfaces.
 
