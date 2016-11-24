@@ -10,17 +10,18 @@ Currently designing and developing cloud based modern web and mobile solutions f
 
 ### Technical Lead / Programmer Analyst, ATB Financial	
 ###### April 2015 - Present, Edmonton AB
-ATB Financial is an Alberta based bank servicing almost a million customers. My work focused on their online banking and investment expierences.
+ATB Financial is an Alberta based bank servicing almost a million customers. My work focuse on their online banking and investment expierences.
 
 ###### Project: Online Investment 'Fintech'
 * Project focused on providing easy and paperless way for customers to invest with ATB Invester Services without the need to meet a financial advisor in person or on the phone. 
-* Fullstack development of a responseive single page application using AngularJS, CSS media queries, and flexbox
-* Stateless Java based REST backend microservices using Spring Boot.and Zuul
-* Secured with JWT web tokens. Automated blue/green deployments, git source control
+* Fullstack development of a responseive single page application using AngularJS, CSS media queries, and flexbox.
+* Stateless Java based REST backend microservices using Spring Boot and Zuul.
+* Secured with JWT web tokens. Automated blue/green deployments, git source control.
 
 ###### Project: Online Banking (Corporate & Retail)
-* Coordinated and Implemented a Two-Factor authentication initiative which allows ATB customers to secure their online banking transactions with a verification code sent via text message
-* Inproved online banking response times by identifying bottlenecks and applying asynchronous processing to reduce overhead when calling backend systems
+* The online banking websites are load balanced ASP.NET WebForms applications with backend application services.
+* Developed a two-factor authentication initiative which allows ATB customers to secure their online banking transactions with a verification code sent via text message.
+* Inproved online banking response times by identifying bottlenecks and applying asynchronous processing to reduce overhead when calling backend systems.
 * Provide 24/7 on-call support for the online banking system.
 
 **Tech & Tools:** 
@@ -43,7 +44,7 @@ ATCO I-Tek was the internal IT division for group of utility and energy companie
 * Prepared documentation for software architecture, use cases, data models, sequence diagrams, class diagrams and other UML diagrams, solution designs, detailed technical specifications, impact analysis, and application integration mapping documents. 
 
 ##### Automated Time Tracking for Field Workers
-* Real time collection of field work progress on work orders that were collected and processed asyncronessly using NServiceBus endpoints hosted as windows services.
+* Real time collection of employee progress on work orders that were processed asyncronessly using NServiceBus endpoints hosted as windows services.
 * Updates collected from the field works were used to automatically generate timecards, allocate overtime, and allow for work to be tracked against assets.
 * Privided an ASP.NET MVC application to allow supervisors to review, correct, and approve generated timecards.
 
@@ -92,7 +93,7 @@ Basic Frame was a bootstraped startup that provided online scheduling services, 
 * Developed a web scheduling system as part of a team of two developers. The application provides web based event scheduling and resource management.
 
 ##### ASP.NET Custom Server Control
-* Created a custom redistributable date picker ASP.NET server web control using C# and JavaScript. Deployed as an MSI. The control was an overnight success and within weeks of its 1.0 release it was voted second in its category for an ASP.NET Pro Reader's Choice Award.
+* Created a custom redistributable date picker ASP.NET server web control using C# and JavaScript. The control was an overnight success and within weeks of its 1.0 release it was voted second in its category for an ASP.NET Pro Reader's Choice Award.
 
 **Tech & Tools:** 
 `.NET`, `ASP.NET WebForms`, `C#`, `JavaScript`, `CSS`, `XML`, `XPath`, 
