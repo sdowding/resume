@@ -6,6 +6,8 @@
 
 Currently designing and developing cloud based modern web and mobile solutions for ATB Financial using the latest technologies and techniques such as extreme programming, AngularJS, JWT, microservices, REST, git, SASS, TDD, and automated green/blue deployments. I have over 15 years of experience in information technology delivering solutions using the Microsoft technology stack.
 
+---
+
 ## Work History
 
 ### Technical Lead / Programmer Analyst, ATB Financial	
@@ -117,11 +119,15 @@ Floating Rock was a local web development shop where I designed user interfaces 
 `Classic ASP`, `.NET`, `ASP.NET WebForms`, `C#`, `JavaScript`, `CSS`, `XML`, `XPath`, `XSLT`, `Flash`, 
 `Microsoft SQL Server`, `Access`
 
+---
+
 ## Education
 
 ### Computer Systems Technology Diploma
 
 Northern Alberta Institute of Technology (NAIT) 
+
+---
 
 ## Personal Projects
 
@@ -131,6 +137,8 @@ I have developed an Objective-C iOS application using City of Edmonton open data
 
 **Tech & Tools:** 
 `Xcode`, `Objective-C`, `Swift`, `iOS`, `Storyboards`, `FMDB`, `App Store Deployment`
+
+---
 
 ## References
 
