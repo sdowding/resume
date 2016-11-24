@@ -4,7 +4,7 @@
 
 ## Summary
 
-Currently designing and developing cloud based modern web and mobile solutions for ATB Financial using the latest technologies and techniques such as extreme programming, AngularJS, NPM, JWT, microservices, REST, git, SASS, TDD, and automated green/blue deployments. I have over 15 years of experience in information technology delivering solutions using the Microsoft technology stack.
+Currently designing and developing cloud based modern web and mobile solutions for ATB Financial using the latest technologies and techniques such as extreme programming, AngularJS, JWT, microservices, REST, git, SASS, TDD, and automated green/blue deployments. I have over 15 years of experience in information technology delivering solutions using the Microsoft technology stack.
 
 ## Work History
 
