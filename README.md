@@ -13,8 +13,12 @@ Currently designing and developing cloud based modern web and mobile solutions f
 
 ## Work History
 
-### Programmer Analyst, ATB Financial	
+### Technical Lead / Programmer Analyst, ATB Financial	
 ###### April 2015 - Present, Edmonton AB
+ATB Financial is an Alberta based bank servicing almost a million customers. My work focused on their online banking and investment expierences.
+
+##### ATB Prosper
+##### ATB Online
 
 Currently in charge of team coordination, technical design, development and implementation of multiple business initiatives related to the Online Banking and Mobile Applications.
 
@@ -39,6 +43,12 @@ Some of the more relevant business initiatives and responsibilities are:
 
 ### Senior System Analyst, ATCO I-Tek	
 ###### Aug 2007 – April 2015, Edmonton AB
+ATCO I-Tek was the internal IT division for group of utility and energy companies. My work forcused on providing custom software solutions for their natural gas and electrical utilities.
+
+##### Meter Data Management
+##### Automated Time Tracking for Field Workers
+##### Work Management
+##### Pipeline Measurement & Reporting
 
 Participating in the full application lifecycle of business critical, n-tier, enterprise applications. Including new development, ongoing maintenance, enhancements, testing, and deployment. Projects included pipeline measurement and reporting, work order management, automatic time card generation, and meter data management systems for Alberta and Ontario Electrical utilities. System development was done using Agile (SCRUM) and waterfall methodologies.
 
@@ -71,6 +81,8 @@ Participating in the full application lifecycle of business critical, n-tier, en
 ### Team Lead / Developer, Upside Software
 ###### Sep 2005 - Aug 2007, Edmonton AB
 
+Upside Software created web based contract managmenet software (think google docs, before google docs existed) utilized by many large american customers such as John Deer and HP.
+
 Managed teams of developers, created requirement and design documentation as well as timeline estimates and project plans. Made major contributions to the design and development of the company’s main application component. System development was done using Agile (SCRUM) and waterfall methodologies.
 
 * Received a Development MVP award within 9 months of joining the company.
@@ -94,6 +106,11 @@ Managed teams of developers, created requirement and design documentation as wel
 
 ### .NET Application Developer, Basic Frame
 ###### May 2004 - Sep 2005, Edmonton AB
+
+Basic Frame was a bootstraped startup that provided online scheduling services, and award wimming Custom ASP.NET Controls that have been used by many large organizations.
+
+##### Online Event Scheduling
+##### ASP.NET Custom Server Control
 
 Planned, developed, implemented and provided support for web applications, custom server controls, and web services. Provided guidance with respects to project architecture, source control and naming conventions based on industry standards.
 
