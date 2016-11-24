@@ -38,17 +38,17 @@ ATB Financial is an Alberta based bank servicing almost a million customers. My 
 ###### Aug 2007 – April 2015, Edmonton AB
 ATCO I-Tek was the internal IT division for group of utility and energy companies. My work forcused on providing custom software solutions for their natural gas and electrical utilities.
 
-##### Meter Data Management
+##### Project: Meter Data Management
 * Lead and developed solutions for Meter Data Management (MDM) with Loadstar, Oracle Utilities, and Itron IEE.
 * Systems used SOA and message queing to provide asyncroness and durable communation between intergrated systems.
 * Prepared documentation for software architecture, use cases, data models, sequence diagrams, class diagrams and other UML diagrams, solution designs, detailed technical specifications, impact analysis, and application integration mapping documents. 
 
-##### Automated Time Tracking for Field Workers
+##### Project: Automated Time Tracking for Field Workers
 * Real time collection of employee progress on work orders that were processed asyncronessly using NServiceBus endpoints hosted as windows services.
 * Updates collected from the field works were used to automatically generate timecards, allocate overtime, and allow for work to be tracked against assets.
 * Privided an ASP.NET MVC application to allow supervisors to review, correct, and approve generated timecards.
 
-##### Work Management & Pipeline Measurement & Reporting
+##### Project: Work Management & Pipeline Measurement & Reporting
 * Participating in the full application lifecycle of business critical, n-tier, enterprise applications.
 * Designing, developing, maintaining and enhancing custom build technical solutions
 * Troubleshooting application issues with users and other technical teams across the enterprise.
@@ -89,10 +89,10 @@ Upside Software created web based contract managmenet software (think google doc
 
 Basic Frame was a bootstraped startup that provided online scheduling services, and award wimming Custom ASP.NET Controls that have been used by many large organizations.
 
-##### Online Event Scheduling
+##### Project: Online Event Scheduling
 * Developed a web scheduling system as part of a team of two developers. The application provides web based event scheduling and resource management.
 
-##### ASP.NET Custom Server Control
+##### Project: ASP.NET Custom Server Control
 * Created a custom redistributable date picker ASP.NET server web control using C# and JavaScript. The control was an overnight success and within weeks of its 1.0 release it was voted second in its category for an ASP.NET Pro Reader's Choice Award.
 
 **Tech & Tools:** 
