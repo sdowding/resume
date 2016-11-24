@@ -27,13 +27,13 @@ ATB Financial is an Alberta based bank servicing almost a million customers. My 
 * Enhanced the Online and Mobile Banking response times by identifying bottlenecks and applying an asynchronous and responsive approach.
 * Provide 24/7 on-call support for the online banking system.
 
-**Technologies and Tools:** 
-`.NET`, `ASP.NET MVC`, `ASP.NET WebForms`, `C#`, `JavaScript`, `jQuery`, `JSON`, `CSS`, `SASS`, `Responsive Design`, `HTML 5`, `REST`, `Json Web Tokens (JWT)`, `SOAP`, `AngularJS 1.x`, `Unit Testing`, `WCF`, `LINQ`, `ADO.NET`,
+**Tech & Tools:** 
+`.NET`, `ASP.NET MVC`, `ASP.NET WebForms`, `C#`, `JavaScript`, `jQuery`, `JSON`, `CSS`, `SASS`, `Responsive Design`, `HTML 5`, `REST`, `Json Web Tokens (JWT)`, `SOAP`, `AngularJS 1.x`, `Unit Testing`, `WCF`, `LINQ`, `ADO.NET`, 
 `GIT`, `SVN`, `Jenkins`, `Powershell`, 
 `Microsoft SQL Server`, `SQL Server Profile`
 
-**Methologies, Architectures, Patterns:** 
-`Continuous Integration (CI)`, `Continuous Deployment (CD)`, `Test Driven Development (TDD)`
+**Methologies & Architectures:** 
+`Continuous Integration (CI)`, `Continuous Deployment (CD)`, `Test Driven Development (TDD)`, 
 `Microservices`, `Single Page Web Applications (SPA)`, `Domain Driven Design (DDD)`, 
 `Extream Programming (XP)`, `Paired Programming`, `Scrum`, `Agile`
 
@@ -58,14 +58,14 @@ ATCO I-Tek was the internal IT division for group of utility and energy companie
 ##### Pipeline Measurement & Reporting
 * ?????
 
-**Technologies and Tools:** 
+**Tech & Tools:** 
 `.NET`, `ASP.NET MVC`, `ASP.NET WebForms`, `Windows Forms`, `C#`, `JavaScript`, `jQuery`, `JSON`, `CSS`, `SOAP`, `Unit Testing`, `WCF`, `ADO.NET`, `LINQ`, `NUnit`, 
-`SVN`, `TFS`, `MSMQ`, `NServiceBus`, `WebSphere MQ`, `Powershell`, `NHibernate`,
-`Oracle`, `Toad`, `IBM DB2`, `SQLite`,
+`SVN`, `TFS`, `MSMQ`, `NServiceBus`, `WebSphere MQ`, `Powershell`, `NHibernate`, 
+`Oracle`, `Toad`, `IBM DB2`, `SQLite`, 
 `Xcode`, `Objective-C`, `iOS`, `Storyboards`, `FMDB`, `Enterprise Deployment`
 
-**Methologies, Architectures, Patterns:** 
-`Continuous Integration (CI)`, `Test Driven Development (TDD)`, `N-Tiered Architecture`,
+**Methologies & Architectures:** 
+`Continuous Integration (CI)`, `Test Driven Development (TDD)`, `N-Tiered Architecture`, 
 `Service Oriented Architecture (SOA)`, `Pub/Sub`, `Domain Driven Design (DDD)`, 
 `Agile`
 
@@ -74,17 +74,17 @@ ATCO I-Tek was the internal IT division for group of utility and energy companie
 
 Upside Software created web based contract managmenet software (think google docs, before google docs existed) utilized by many large american customers such as John Deer and HP. 
 
-##### Prject: JavaScript Document Editor
+##### Project: JavaScript Document Editor
 * Developed an Ajax-based online document editor, one of the unique selling points of the company’s application, using JavaScript, C#, Web Services, HTML, CSS, XML, XPath, and MS SQL Server.
 * Made major contributions to the design and development of the company’s main application component.
 * Received a Development MVP award within 9 months of joining the company.
 * Investigated new techniques and technologies to be adopted by the company.
 
-**Technologies and Tools:** 
+**Tech & Tools:** 
 `.NET`, `ASP.NET WebForms`, `C#`, `JavaScript`, `Ajax`, `CSS`, `XML`, `XPath`, `N-Tiered Architecture`,
 `Microsoft SQL Server`
 
-**Methologies, Architectures, Patterns:** 
+**Methologies & Architectures:** 
 `Model View Presener`,
 `Shadow DOM`, `Domain Driven Design`, 
 `Agile`
@@ -100,8 +100,8 @@ Basic Frame was a bootstraped startup that provided online scheduling services, 
 ##### ASP.NET Custom Server Control
 * Created a custom redistributable date picker ASP.NET server web control using C# and JavaScript. Deployed as an MSI. The control was an overnight success and within weeks of its 1.0 release it was voted second in its category for an ASP.NET Pro Reader's Choice Award.
 
-**Technologies and Tools:** 
-`.NET`, `ASP.NET WebForms`, `C#`, `JavaScript`, `CSS`, `XML`, `XPath`,
+**Tech & Tools:** 
+`.NET`, `ASP.NET WebForms`, `C#`, `JavaScript`, `CSS`, `XML`, `XPath`, 
 `Microsoft SQL Server`
 
 ### Web Application Developer, Refined Logic	
@@ -109,7 +109,7 @@ Basic Frame was a bootstraped startup that provided online scheduling services, 
 
 Contributed to the design and development the company’s products. Migrated ASP applications to ASP.NET / C#. Made architectural decisions regarding product design. Developed data-driven web applications as well as design web based user interfaces.
 
-**Technologies and Tools:** 
+**Tech & Tools:** 
 `.NET`, `ASP.NET WebForms`, `C#`, `JavaScript`, `CSS`, `XML`, `XPath`, `XSLT`, 
 `Microsoft SQL Server`
 
@@ -118,8 +118,8 @@ Contributed to the design and development the company’s products. Migrated ASP
  
 Floating Rock was a local web development shop where I designed user interfaces for applications and developed data-driven and e-commerce web solutions.
 
-**Technologies and Tools:** 
-`Classic ASP`, `.NET`, `ASP.NET WebForms`, `C#`, `JavaScript`, `CSS`, `XML`, `XPath`, `XSLT`, `Flash`,
+**Tech & Tools:** 
+`Classic ASP`, `.NET`, `ASP.NET WebForms`, `C#`, `JavaScript`, `CSS`, `XML`, `XPath`, `XSLT`, `Flash`, 
 `Microsoft SQL Server`, `Access`
 
 ## Education
@@ -134,7 +134,7 @@ Northern Alberta Institute of Technology (NAIT)
 
 I have developed an Objective-C iOS application using City of Edmonton open data and SQLIte. The application, which is local in scope, is deployed in the Apple iOS App Store with over 10,000 downloads and more than 100 active users.
 
-**Technologies and Tools:** 
+**Tech & Tools:** 
 `Xcode`, `Objective-C`, `Swift`, `iOS`, `Storyboards`, `FMDB`, `App Store Deployment`
 
 ## References
