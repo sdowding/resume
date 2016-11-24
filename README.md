@@ -26,12 +26,12 @@ ATB Financial is an Alberta based bank servicing almost a million customers. My 
 * Inproved online banking response times by identifying bottlenecks and applying asynchronous processing to reduce overhead when calling backend systems.
 * Provide 24/7 on-call support for the online banking system.
 
-**Tech & Tools:** 
+###### Tech & Tools:
 `.NET`, `ASP.NET MVC`, `ASP.NET WebForms`, `C#`, `JavaScript`, `jQuery`, `JSON`, `CSS`, `SASS`, `Responsive Design`, `HTML 5`, `REST`, `Json Web Tokens (JWT)`, `SOAP`, `AngularJS 1.x`, `Unit Testing`, `WCF`, `LINQ`, `ADO.NET`, 
 `GIT`, `SVN`, `Jenkins`, `Powershell`, 
 `Microsoft SQL Server`, `SQL Server Profile`
 
-**Methologies & Architectures:** 
+###### Methologies & Architectures:
 `Continuous Integration (CI)`, `Continuous Deployment (CD)`, `Test Driven Development (TDD)`, 
 `Microservices`, `Single Page Web Applications (SPA)`, `Domain Driven Design (DDD)`, 
 `Extream Programming (XP)`, `Paired Programming`, `Scrum`, `Agile`
