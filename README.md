@@ -4,12 +4,7 @@
 
 ## Summary
 
-Currently designing and developing cloud based modern web and mobile solutions for ATB Financial using the latest technologies and techniques such as extreme programming, AngularJS, NPM, JWT, microservices, REST, git, SASS, TDD, and automated green/blue deployments.
-
-* Over 7 years of architecting, designing, and developing enterprise business solution for ATCO, an Alberta Based Gas and Electrical Utility.
-* 15 years of experience in information technology delivering solutions using the Microsoft technology stack.
-* 7 years of experience in enterprise application development.  
-* 1 year of experience in mobile web and application development for iOS / iPhone with Objective-C.
+Currently designing and developing cloud based modern web and mobile solutions for ATB Financial using the latest technologies and techniques such as extreme programming, AngularJS, NPM, JWT, microservices, REST, git, SASS, TDD, and automated green/blue deployments. I have over 15 years of experience in information technology delivering solutions using the Microsoft technology stack.
 
 ## Work History
 
