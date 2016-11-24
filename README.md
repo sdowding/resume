@@ -1,6 +1,6 @@
 ---
 # Scott Dowding 	
-#### Edmonton, Alberta, Canada | dowding@gmail.com  | 780-932-2070
+###### Edmonton, Alberta, Canada | dowding@gmail.com  | 780-932-2070
 
 ## Summary
 
@@ -10,33 +10,6 @@ Currently designing and developing cloud based modern web and mobile solutions f
 * 15 years of experience in information technology delivering solutions using the Microsoft technology stack.
 * 7 years of experience in enterprise application development.  
 * 1 year of experience in mobile web and application development for iOS / iPhone with Objective-C.
-
-### Languages, Frameworks & APIs
-
-* .NET Framework version 2.0 to 4.5 using C#, ADO.NET, LINQ
-* ASP.NET WebForms, MVP, ASP.NET MVC 2.0, MVVM, Windows Forms, ADO.NET, Web Services (WSDL), PowerShell, HTML, HTML5, XHTML, 
-* AngularJS, SASS, AJAX, HTML, CSS, JavaScript, jQuery, Twitter Bootstrap, XML, XSLT, XPath
-* MSMQ, WebSphere MQ, NServiceBus, NHibernate
-* Xcode, Objective-C, iOS, Storyboards, FMDB, App Store & Enterprise Deployment
-
-### Databases
-
-* Oracle 11g, Microsoft SQL Server, IBM DB2, Access, SQL, PL/SQL, Stored Procedures, SQLite
-
-### Methodologies & Concepts
-
-* Object Oriented Analysis and Design, Design Patterns
-* Agile (SCRUM), Test Driven Development (TDD), Continuous Integration (CI)
-* Microservices, N-Tiered Architecture, Service Oriented Architecture (SOA), Messaging, Pub/Sub
-* Single Page Web Applications (SPA)
-
-### Software
-
-* Visual Studio 2005/2008/2010/2013, Team Foundation Server (TFS)
-* GIT, Subversion (SVN), NAnt, NDoc, NUnit, TortoiseSVN, VisualSVN, ReSharper
-* Quest Toad (Oracle / DB2)
-* Microsoft Office (Word, Excel, Access, OneNote, Outlook, Visio)
-* Crystal Reports, Active Reports
 
 ## Work History
 
@@ -55,15 +28,14 @@ Some of the more relevant business initiatives and responsibilities are:
 * Provide 24/7 on-call support for the online banking system.
 
 **Technologies and Tools:** 
-`.NET`, `ASP.NET MVC`, `ASP.NET WebForms`, `C#`, `JavaScript`, `jQuery`, `JSON`, `CSS`, `Responsive Design`, `HTML 5`, `REST`, `SOAP`, `AngularJS 1.x`, `Unit Testing`, `WCF`, 
-`SVN`, `Jenkins`, 
+`.NET`, `ASP.NET MVC`, `ASP.NET WebForms`, `C#`, `JavaScript`, `jQuery`, `JSON`, `CSS`, `SASS`, `Responsive Design`, `HTML 5`, `REST`, `SOAP`, `AngularJS 1.x`, `Unit Testing`, `WCF`, `LINQ`, `ADO.NET`,
+`GIT`, `SVN`, `Jenkins`, `Powershell`, 
 `Microsoft SQL Server`, `SQL Server Profile`
 
 **Methologies, Architectures, Patterns:** 
-`Continuous Integration (CI)`, `Continuous Deployment (CD)`,
-`Microservices`, `Domain Driven Design (DDD)`, 
+`Continuous Integration (CI)`, `Continuous Deployment (CD)`, `Test Driven Development (TDD)`
+`Microservices`, `Single Page Web Applications (SPA)`, `Domain Driven Design (DDD)`, 
 `Extream Programming (XP)`, `Paired Programming`, `Scrum`, `Agile`
-
 
 ### Senior System Analyst, ATCO I-Tek	
 ###### Aug 2007 – April 2015, Edmonton AB
@@ -86,13 +58,14 @@ Participating in the full application lifecycle of business critical, n-tier, en
 * Preparing documentation for software architecture, use cases, data models, sequence diagrams, class diagrams and other UML diagrams, solution designs, detailed technical specifications, impact analysis, and application integration mapping documents. 
 
 **Technologies and Tools:** 
-`.NET`, `ASP.NET MVC`, `ASP.NET WebForms`, `Windows Forms`, `C#`, `JavaScript`, `jQuery`, `JSON`, `CSS`, `SOAP`, `Unit Testing`, `WCF`, 
-`SVN`, `TFS`, `MSMQ`, `NServiceBus`, `WebSphere MQ`, 
-`Oracle`, `Toad`
+`.NET`, `ASP.NET MVC`, `ASP.NET WebForms`, `Windows Forms`, `C#`, `JavaScript`, `jQuery`, `JSON`, `CSS`, `SOAP`, `Unit Testing`, `WCF`, `ADO.NET`, `LINQ`, `NUnit`, 
+`SVN`, `TFS`, `MSMQ`, `NServiceBus`, `WebSphere MQ`, `Powershell`, `NHibernate`,
+`Oracle`, `Toad`, `IBM DB2`, `SQLite`,
+`Xcode`, `Objective-C`, `iOS`, `Storyboards`, `FMDB`, `Enterprise Deployment`
 
 **Methologies, Architectures, Patterns:** 
-`Continuous Integration (CI)`,
-`Service Oriented Architecture (SOA)`, `Domain Driven Design (DDD)`, 
+`Continuous Integration (CI)`, `Test Driven Development (TDD)`, `N-Tiered Architecture`,
+`Service Oriented Architecture (SOA)`, `Pub/Sub`, `Domain Driven Design (DDD)`, 
 `Agile`
 
 ### Team Lead / Developer, Upside Software
@@ -111,7 +84,7 @@ Managed teams of developers, created requirement and design documentation as wel
 * Developed an Ajax-based online document editor, one of the unique selling points of the company’s application, using JavaScript, C#, Web Services, HTML, CSS, XML, XPath, and MS SQL Server.
 
 **Technologies and Tools:** 
-`.NET`, `ASP.NET WebForms`, `C#`, `JavaScript`, `Ajax`, `CSS`, `XML`, `XPath` 
+`.NET`, `ASP.NET WebForms`, `C#`, `JavaScript`, `Ajax`, `CSS`, `XML`, `XPath`, `N-Tiered Architecture`,
 `Microsoft SQL Server`
 
 **Methologies, Architectures, Patterns:** 
@@ -141,7 +114,7 @@ Contributed to the design and development the company’s products. Migrated ASP
 * Developed a data management and reporting application that allows over 160 users to update, share, and compare over 1,000,000 records of critical forest health data using ASP.NET and SQL Server 2000.
 
 **Technologies and Tools:** 
-`.NET`, `ASP.NET WebForms`, `C#`, `JavaScript`, `CSS`, `XML`, `XPath`, 'XSLT',
+`.NET`, `ASP.NET WebForms`, `C#`, `JavaScript`, `CSS`, `XML`, `XPath`, `XSLT`, 
 `Microsoft SQL Server`
 
 ### Web Developer, Floating Rock
@@ -156,7 +129,7 @@ Designed user interfaces for applications and websites. Developed data-driven an
 
 **Technologies and Tools:** 
 `Classic ASP`, `.NET`, `ASP.NET WebForms`, `C#`, `JavaScript`, `CSS`, `XML`, `XPath`, `XSLT`, `Flash`,
-`Microsoft SQL Server`
+`Microsoft SQL Server`, `Access`
 
 ## Education
 
@@ -169,6 +142,9 @@ Northern Alberta Institute of Technology (NAIT)
 ###iPhone Application Development
 
 I have developed an Objective-C iOS application using City of Edmonton open data and SQLIte. The application, which is local in scope, is deployed in the Apple iOS App Store with over 10,000 downloads and more than 100 active users.
+
+**Technologies and Tools:** 
+`Xcode`, `Objective-C`, `Swift`, `iOS`, `Storyboards`, `FMDB`, `App Store Deployment`
 
 ## References
 
