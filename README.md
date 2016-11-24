@@ -1,6 +1,6 @@
 ---
 # Scott Dowding 	
-###### Edmonton, Alberta, Canada | dowding@gmail.com  | 780-932-2070
+###### Edmonton, Alberta, Canada | dowding@gmail.com  | 780-932-2070 | https://github.com/sdowding/resume
 
 ## Summary
 
