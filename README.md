@@ -135,7 +135,7 @@ Northern Alberta Institute of Technology (NAIT)
 
 I have developed an Objective-C iOS application using City of Edmonton open data and SQLIte. The application, which is local in scope, is deployed in the Apple iOS App Store with over 10,000 downloads and more than 100 active users.
 
-**Tech & Tools:** 
+Tech & Tools: 
 `Xcode`, `Objective-C`, `Swift`, `iOS`, `Storyboards`, `FMDB`, `App Store Deployment`
 
 ---
