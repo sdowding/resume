@@ -17,14 +17,15 @@ Currently designing and developing cloud based modern web and mobile solutions f
 ###### April 2015 - Present, Edmonton AB
 ATB Financial is an Alberta based bank servicing almost a million customers. My work focused on their online banking and investment expierences.
 
-##### Project: Online Investment 'Fintech'
-* Working with Pivotal labs in Toronto on a project focusing on online investment for consumers. 
-* Fullstack development using AngularJS frontend, with a stateless Java based REST backend.
+###### Project: Online Investment 'Fintech'
+* Project focused on providing easy and paperless way for customers to invest with ATB Invester Services without the need to meet a financial advisor in person or on the phone. 
+* Fullstack development of a responseive single page application using AngularJS, CSS media queries, and flexbox
+* Stateless Java based REST backend microservices using Spring Boot.and Zuul
+* Secured with JWT web tokens. Automated blue/green deployments, git source control
 
-##### Project Online Banking (Corporate & Retail)
-* Successfully coordinated and Implemented a Two-Factor authentication initiative which allows ATB customers to secure their online banking transactions. A verification code is sent via text message or voice call when a transaction is considered high risk.
-* Managed and coordinated 4 senior resources, reported to the Technical Lead the status of the project, timelines and tasks assignments.
-* Enhanced the Online and Mobile Banking response times by identifying bottlenecks and applying an asynchronous and responsive approach.
+###### Project: Online Banking (Corporate & Retail)
+* Coordinated and Implemented a Two-Factor authentication initiative which allows ATB customers to secure their online banking transactions with a verification code sent via text message
+* Inproved online banking response times by identifying bottlenecks and applying asynchronous processing to reduce overhead when calling backend systems
 * Provide 24/7 on-call support for the online banking system.
 
 **Tech & Tools:** 
@@ -42,27 +43,25 @@ ATB Financial is an Alberta based bank servicing almost a million customers. My 
 ATCO I-Tek was the internal IT division for group of utility and energy companies. My work forcused on providing custom software solutions for their natural gas and electrical utilities.
 
 ##### Meter Data Management
-* Meter Data Management (MDM) with Loadstar, Oracle Utilities, and Itron IEE.
-* Testing and deploying application in DEV/UAT/PROD environments. 
-* Creating estimates for work based on effort and costs, as well as managing timelines. 
-* Preparing documentation for software architecture, use cases, data models, sequence diagrams, class diagrams and other UML diagrams, solution designs, detailed technical specifications, impact analysis, and application integration mapping documents. 
+* Lead and developed solutions for Meter Data Management (MDM) with Loadstar, Oracle Utilities, and Itron IEE.
+* Systems used SOA and message queing to provide asyncroness and durable communation between intergrated systems.
+* Prepared documentation for software architecture, use cases, data models, sequence diagrams, class diagrams and other UML diagrams, solution designs, detailed technical specifications, impact analysis, and application integration mapping documents. 
 
 ##### Automated Time Tracking for Field Workers
-* Participating in the full application lifecycle of business critical, n-tier, enterprise applications.
+* Real time collection of field work progress on work orders that were collected and processed asyncronessly using NServiceBus endpoints hosted as windows services.
+* Updates collected from the field works were used to automatically generate timecards, allocate overtime, and allow for work to be tracked against assets.
+* Privided an ASP.NET MVC application to allow supervisors to review, correct, and approve generated timecards.
 
-##### Work Management
+##### Work Management & Pipeline Measurement & Reporting
+* Participating in the full application lifecycle of business critical, n-tier, enterprise applications.
 * Designing, developing, maintaining and enhancing custom build technical solutions
 * Troubleshooting application issues with users and other technical teams across the enterprise.
 * Production systems support, including 24/7 on-call support, for critical enterprise applications. Application support was managed with ITIL (Problems/Incidents).
-
-##### Pipeline Measurement & Reporting
-* ?????
 
 **Tech & Tools:** 
 `.NET`, `ASP.NET MVC`, `ASP.NET WebForms`, `Windows Forms`, `C#`, `JavaScript`, `jQuery`, `JSON`, `CSS`, `SOAP`, `Unit Testing`, `WCF`, `ADO.NET`, `LINQ`, `NUnit`, 
 `SVN`, `TFS`, `MSMQ`, `NServiceBus`, `WebSphere MQ`, `Powershell`, `NHibernate`, 
 `Oracle`, `Toad`, `IBM DB2`, `SQLite`, 
-`Xcode`, `Objective-C`, `iOS`, `Storyboards`, `FMDB`, `Enterprise Deployment`
 
 **Methologies & Architectures:** 
 `Continuous Integration (CI)`, `Test Driven Development (TDD)`, `N-Tiered Architecture`, 
