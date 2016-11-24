@@ -1,3 +1,4 @@
+---
 # Scott Dowding 	
 #### Edmonton, Alberta, Canada | dowding@gmail.com  | 780-932-2070
 
@@ -40,7 +41,7 @@ Currently designing and developing cloud based modern web and mobile solutions f
 ## Work History
 
 ### Programmer Analyst, ATB Financial	
-###### April 2015 - Present, Edmonton AB/Toronto ON
+###### April 2015 - Present, Edmonton AB
 
 Currently in charge of team coordination, technical design, development and implementation of multiple business initiatives related to the Online Banking and Mobile Applications.
 
@@ -54,12 +55,12 @@ Some of the more relevant business initiatives and responsibilities are:
 * Provide 24/7 on-call support for the online banking system.
 
 **Technologies and Tools:** 
-`.NET`, `ASP.NET MVC`, `ASP.NET WebForms`, `C#`, `JavaScript`, `jQuery`, `JSON`, `CSS`, `Responsive Design`, `HTML 5`, `REST`, `SOAP`, `Unit Testing`,
+`.NET`, `ASP.NET MVC`, `ASP.NET WebForms`, `C#`, `JavaScript`, `jQuery`, `JSON`, `CSS`, `Responsive Design`, `HTML 5`, `REST`, `SOAP`, `AngularJS 1.x`, `Unit Testing`, `WCF`, 
 `SVN`, `Jenkins`, 
 `Microsoft SQL Server`, `SQL Server Profile`
 
 **Methologies, Architectures, Patterns:** 
-`Continuous Deployment (CI)`,
+`Continuous Integration (CI)`, `Continuous Deployment (CD)`,
 `Microservices`, `Domain Driven Design (DDD)`, 
 `Extream Programming (XP)`, `Paired Programming`, `Scrum`, `Agile`
 
@@ -84,6 +85,16 @@ Participating in the full application lifecycle of business critical, n-tier, en
 * Gathering business and technical requirements directly from customers and conducting use case review workshops as well as product demos.
 * Preparing documentation for software architecture, use cases, data models, sequence diagrams, class diagrams and other UML diagrams, solution designs, detailed technical specifications, impact analysis, and application integration mapping documents. 
 
+**Technologies and Tools:** 
+`.NET`, `ASP.NET MVC`, `ASP.NET WebForms`, `Windows Forms`, `C#`, `JavaScript`, `jQuery`, `JSON`, `CSS`, `SOAP`, `Unit Testing`, `WCF`, 
+`SVN`, `TFS`, `MSMQ`, `NServiceBus`, `WebSphere MQ`, 
+`Oracle`, `Toad`
+
+**Methologies, Architectures, Patterns:** 
+`Continuous Integration (CI)`,
+`Service Oriented Architecture (SOA)`, `Domain Driven Design (DDD)`, 
+`Agile`
+
 ### Team Lead / Developer, Upside Software
 ###### Sep 2005 - Aug 2007, Edmonton AB
 
@@ -99,6 +110,15 @@ Managed teams of developers, created requirement and design documentation as wel
 * Mentored developers on a daily basis.
 * Developed an Ajax-based online document editor, one of the unique selling points of the company’s application, using JavaScript, C#, Web Services, HTML, CSS, XML, XPath, and MS SQL Server.
 
+**Technologies and Tools:** 
+`.NET`, `ASP.NET WebForms`, `C#`, `JavaScript`, `Ajax`, `CSS`, `XML`, `XPath` 
+`Microsoft SQL Server`
+
+**Methologies, Architectures, Patterns:** 
+`Model View Presener`,
+`Shadow DOM`, `Domain Driven Design`, 
+`Agile`
+
 ### .NET Application Developer, Basic Frame
 ###### May 2004 - Sep 2005, Edmonton AB
 
@@ -106,6 +126,10 @@ Planned, developed, implemented and provided support for web applications, custo
 
 * Developed a web based festival management system as part of a team of two developers. The application provides web based event scheduling and resource management. The project also included an extensive reporting section, which utilizes Crystal Reports and a public Web Service API.
 * Created a custom redistributable date picker ASP.NET server web control using C# and JavaScript. Deployed as an MSI. The control was an overnight success and within weeks of its 1.0 release it was voted second in its category for an ASP.NET Pro Reader's Choice Award.
+
+**Technologies and Tools:** 
+`.NET`, `ASP.NET WebForms`, `C#`, `JavaScript`, `CSS`, `XML`, `XPath`,
+`Microsoft SQL Server`
 
 ### Web Application Developer, Refined Logic	
 ###### Sep 2003 - Apr 2004, Prince George BC
@@ -116,6 +140,10 @@ Contributed to the design and development the company’s products. Migrated ASP
 * Created a single sign-on service that integrates with ASP.NET forms authentication.
 * Developed a data management and reporting application that allows over 160 users to update, share, and compare over 1,000,000 records of critical forest health data using ASP.NET and SQL Server 2000.
 
+**Technologies and Tools:** 
+`.NET`, `ASP.NET WebForms`, `C#`, `JavaScript`, `CSS`, `XML`, `XPath`, 'XSLT',
+`Microsoft SQL Server`
+
 ### Web Developer, Floating Rock
 ######Sep 1999 – Sep 2003, Prince George BC
  
@@ -125,6 +153,10 @@ Designed user interfaces for applications and websites. Developed data-driven an
 * Made major design and development contributions to the in-house content management system that is used to develop and maintain the majority of Floating Rock’s websites. Projects developed using the in-house CMS resulted in time savings as large as 70% versus the company’s previous development methods.
 * Developed an online booking RIA using Flash, JavaScript, ActionScript, XML, XPath, XSLT, CSS, and HTML.
 * Many of my projects lead to repeat business as well as multiple referrals.
+
+**Technologies and Tools:** 
+`Classic ASP`, `.NET`, `ASP.NET WebForms`, `C#`, `JavaScript`, `CSS`, `XML`, `XPath`, `XSLT`, `Flash`,
+`Microsoft SQL Server`
 
 ## Education
 
