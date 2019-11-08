@@ -3,20 +3,20 @@
 
 # Scott Dowding 👨‍💻
 
-###### Edmonton, AB, Canada &bull; dowding@gmail.com  &bull; 780-932-2070 &bull;  https://github.com/sdowding/resume
+###### 🇨🇦 Living life in sunny Edmonton, AB &bull; dowding@gmail.com  &bull;  https://github.com/sdowding/resume
 
-Currently delivering modern, cloud based web and mobile solutions for ATB Financial using the latest process likes Trunk Based Development (TBD) and CI/CD (where the D stands for Delivery) with a heavy focus on test automation. I have over 20 years of experience in creating digital solutions.
+You can find me delivering cloud hosted web and mobile solutions for ATB Financial (probably surrounded by empty coffee cups). I'm currently focused on transforming their web and mobile online banking experiences using React, express, and a "microservices" based backend (yeah, I put microservices in "air quotes"). The project is delivered using Trunk Based Development and deployed using CI/CD with a heavy focus on test automation. I have over 20 years of experience creating digital solutions.
 
 ### 🧰 My current toolbox:
 
-`Express`, `Java`, `JavaScript (ES6)`, `React`, `JSON`, `XML`, `CSS`, `Responsive Design`, `REST`, `Python`, `Json Web Tokens (JWT)`, `SOAP`, `Unit Testing`, `MongoDB`, `PostgreSQL`, `Jenkins`, `Bitbucket Pipelines`
+`Google Search`, `JavaScript (ES6)`, `express`, `React`, `JSON`, `XML`, `CSS`, `Responsive Design`, `REST`, `Python`, `Json Web Tokens (JWT)`, `SOAP`, `Unit Testing`, `MongoDB`, `PostgreSQL`, `Java`, `Jenkins`, `Bitbucket Pipelines`, `auth0`, `OpenAPI/Swagger`
 
-### ❤️Practices I'm passionate about:
+### 😍 Practices I'm passionate about:
 
-`Continuous Integration (CI)`, `Continuous Deployment (CD)`, `Test Automation`, `Microservices & Deployable Units`, `Static Websites`, `Monitoring and Alerting`, `Pub/Sub`, `Extreme Programming (XP)`, `Paired Programming`, `Trunk Based Development`
+`Continuous Integration (CI)`, `Continuous Deployment (CD)`, `Test Automation (Unit Tests / e2e Test)`, `Microservices & Deployable Units`, `Static Websites`, `Monitoring and Alerting`, `Pub/Sub`, `Extreme Programming (XP)`, `Paired Programming`, `Trunk Based Development`, `Done === In-Production`, `Owner/Operator`
 
 --------------------------------------------------------
-## Work History
+## Experience
 
 ### Senior Developer, ATB Financial	
 ###### April 2015 - Present, Edmonton AB
@@ -24,20 +24,23 @@ Currently delivering modern, cloud based web and mobile solutions for ATB Financ
 ATB Financial is an Alberta based financial institution servicing over 700,000 customers. My work there has focused around their online banking platforms.
 
 ##### Project: ATB Business ([business.atb.com](https://business.atb.com))
-* Architecturally responsible for the web based online baking application.
-* Set the blueprint for we build React applications
+
+* Architecturally responsible for the online banking application.
+* Designed and developed REST based APIs to be consumed internally and externally. APIs are document with Swagger which was used to create a centralized API library developers could use to find APIs.
+* Building React web applications using redux, babel, webpack, es6, and webpack
+* Started ATB's shared "design system" of React controls.
 * Established CI/CD practices that allowed a team of more than 25 developers to transition from bi-monthly coordinated production releases to multiple production deployments a day.
-* Created RFC's, and presentations used to educate and communicate new innovate ways we could create applications and leverage cloud functionality.
-* Created a roadman for Alerting and Observability
-* Curated a community of collaboration around development practices and well as establish automated processes that enforce them.
-* Enabling manual QA process to "shifting left" resulting in massively reduced effort while gaining the ability to ship hotfixes and changes to production within hours.
+* Created RFC's, and presentations used to educate and communicate new innovative ways to create applications and leverage cloud functionality.
+* Created a road map for alerting and observability
+* Curated a community of collaboration around development practices as well as establishing automated processes that enforce them.
+* Enabling manual QA process to "shift left" resulting in massively reduced effort while gaining the ability to ship hotfixes and changes to production within hours.
 
 ##### Project: ATB Prosper ([atbproster.com](https://www.atbprosper.com))
 
 * ATB Wealth project focused on providing and easy and paperless way for customers to invest without the need to meet a financial adviser in person or on the phone. 
 * Full-stack development of a responsive single page application using AngularJS, CSS media queries, and flexbox.
 * Stateless Java based REST backend microservices using Spring Boot and Zuul api gateway.
-* Deployed blue/green deployments.
+* Blue/green deployments.
 
 ##### Project: Online Banking ([atbonline.com](https://www.atbonline.com))
 * The online banking websites are load balanced ASP.NET WebForms applications with backend application services.
@@ -73,20 +76,20 @@ Upside Software created web based contract management software utilized by many 
 ### .NET Application Developer, Basic Frame
 ###### May 2004 - Sep 2005, Edmonton AB
 
-Basic Frame was a local startup that developer online scheduling software and third party ASP.NET Controls. Duringmy time there I developed an award winning Custom ASP.NET Control that have been used by many large organizations.
+Basic Frame was a local startup that developer online scheduling software and third party ASP.NET Controls. During my time there I developed an award winning Custom ASP.NET Control that have been used by many large organizations (ask me about this, I have a funny story).
 
 ### Web Application Developer, Refined Logic	
 ###### Sep 2003 - Apr 2004, Prince George BC
 
-Contributed to the design and development the company’s products. Migrated ASP applications to ASP.NET / C#. Made architectural decisions regarding product design. Developed data-driven web applications as well as design web based user interfaces.
+Developed a web applications for tracking mountain pine beetles in British Columbia.
 
 ### Web Developer, Floating Rock
 ###### Sep 1999 – Sep 2003, Prince George BC
  
-Floating Rock was a local web development shop where I designed user interfaces for applications and developed data-driven and e-commerce web solutions.
+Designed user interfaces for applications and developed data-driven and e-commerce web solutions.
 
 --------------------------------------------------------
-## Education & Learning
+## Education
 
 ##### Computer Systems Technology Diploma
 
@@ -94,4 +97,6 @@ Northern Alberta Institute of Technology (NAIT)
 
 --------------------------------------------------------
 
-(🍪you read all the way to the bottom, you deserve a cookie!)
+_You've read all the way to the bottom... here's your reward:_ 
+
+> **Two truths and a lie**:  1️⃣ I'm a newfie 🎣 2️⃣ I love dogs 🐶 3️⃣ I've completed 2 marathons 🏃‍♂️
