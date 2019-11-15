@@ -5,11 +5,11 @@
 
 ###### 🇨🇦 Living life in sunny Edmonton, AB &bull; dowding@gmail.com  &bull;  https://github.com/sdowding/resume
 
-You can find me delivering cloud hosted web and mobile solutions for ATB Financial (probably surrounded by empty coffee cups). I'm currently focused on transforming their web and mobile online banking experiences using React, express, and a "microservices" based backend (yeah, I put microservices in "air quotes"). The project is delivered using Trunk Based Development and deployed using CI/CD with a heavy focus on test automation. I have over 20 years of experience creating digital solutions.
+You can find me delivering cloud hosted web and mobile solutions for ATB Financial (probably surrounded by empty coffee cups). I'm currently focused on transforming their web and mobile online banking experiences using React, express, and a microservices based backend. The project is delivered using Trunk Based Development and deployed using CI/CD with a heavy focus on test automation. I have over 20 years of experience creating digital solutions.
 
 ### 🧰 My current toolbox:
 
-`Google Search`, `JavaScript (ES6)`, `express`, `React`, `JSON`, `XML`, `CSS`, `Responsive Design`, `REST`, `Python`, `Json Web Tokens (JWT)`, `SOAP`, `Unit Testing`, `MongoDB`, `PostgreSQL`, `Java`, `Jenkins`, `Bitbucket Pipelines`, `auth0`, `OpenAPI/Swagger`
+`JavaScript (ES6)`, `express`, `React`, `JSON`, `XML`, `CSS`, `Responsive Design`, `REST`, `Python`, `Json Web Tokens (JWT)`, `SOAP`, `Unit Testing`, `MongoDB`, `PostgreSQL`, `Java`, `Jenkins`, `Bitbucket Pipelines`, `auth0`, `OpenAPI/Swagger`, `Google Search`
 
 ### 😍 Practices I'm passionate about:
 
@@ -21,13 +21,13 @@ You can find me delivering cloud hosted web and mobile solutions for ATB Financi
 ### Senior Developer, ATB Financial	
 ###### April 2015 - Present, Edmonton AB
 
-ATB Financial is an Alberta based financial institution servicing over 700,000 customers. My work there has focused around their online banking platforms.
+ATB Financial is an Alberta based financial institution servicing over 700,000 customers. My work there has focused around their online banking platforms.#
 
 ##### Project: ATB Business ([business.atb.com](https://business.atb.com))
 
 * Architecturally responsible for the online banking application.
 * Designed and developed REST based APIs to be consumed internally and externally. APIs are document with Swagger which was used to create a centralized API library developers could use to find APIs.
-* Building React web applications using redux, babel, webpack, es6, and webpack
+* Building React web applications using redux, babel, webpack, es6, and *webpack
 * Started ATB's shared "design system" of React controls.
 * Established CI/CD practices that allowed a team of more than 25 developers to transition from bi-monthly coordinated production releases to multiple production deployments a day.
 * Created RFC's, and presentations used to educate and communicate new innovative ways to create applications and leverage cloud functionality.
