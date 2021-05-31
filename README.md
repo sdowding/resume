@@ -3,7 +3,7 @@
 
 # Scott Dowding 👨‍💻
 
-###### 🇨🇦 Living life in sunny Edmonton, AB &bull; dowding@gmail.com  &bull;  https://github.com/sdowding/resume
+###### 🇨🇦 Living life in Toronto &bull; dowding@gmail.com  &bull;  https://github.com/sdowding/resume
 
 You can find me delivering cloud hosted web and mobile solutions for ATB Financial (probably surrounded by empty coffee cups). I'm currently focused on transforming their web and mobile online banking experiences using React, express, and a microservices based backend. The project is delivered using Trunk Based Development and deployed using CI/CD with a heavy focus on test automation. I have over 20 years of experience creating digital solutions.
 
@@ -18,10 +18,13 @@ You can find me delivering cloud hosted web and mobile solutions for ATB Financi
 --------------------------------------------------------
 ## Experience
 
-### Senior Developer, ATB Financial	
-###### April 2015 - Present, Edmonton AB
+### Senior Backend Developer, KOHO	
+###### May 2018 - Present, Toronto ON
 
-ATB Financial is an Alberta based financial institution servicing over 700,000 customers. My work there has focused around their online banking platforms.#
+### Architect, ATB Financial	
+###### May 2018 - March 2020, Edmonton AB
+
+ATB Financial is an Alberta based financial institution servicing over 700,000 customers. My work there has focused around their online banking platforms.
 
 ##### Project: ATB Business ([business.atb.com](https://business.atb.com))
 
@@ -34,6 +37,15 @@ ATB Financial is an Alberta based financial institution servicing over 700,000 c
 * Created a road map for alerting and observability
 * Curated a community of collaboration around development practices as well as establishing automated processes that enforce them.
 * Enabling manual QA process to "shift left" resulting in massively reduced effort while gaining the ability to ship hotfixes and changes to production within hours.
+
+### Senior Developer, ATB Financial	
+###### April 2015 - Present, Edmonton AB
+
+ATB Financial is an Alberta based financial institution servicing over 700,000 customers. My work there has focused around their online banking platforms.#
+
+##### Project: ATB Business ([business.atb.com](https://business.atb.com))
+
+* Designed and developed REST based APIs to be consumed internally and externally. APIs are document with Swagger which was used to create a centralized API library developers could use to find APIs.
 
 ##### Project: ATB Prosper ([atbproster.com](https://www.atbprosper.com))
 
