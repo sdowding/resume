@@ -24,16 +24,16 @@ You can find me delivering cloud hosted web and mobile solutions for ATB Financi
 ### Architect, ATB Financial	
 ###### May 2018 - March 2020, Edmonton AB
 
-ATB Financial is an Alberta based financial institution servicing over 700,000 customers. My work there has focused around their online banking platforms.
+ATB Financial is an Alberta based financial institution servicing over 700,000 customers. My work there has focused on their online banking platforms.
 
 ##### Project: ATB Business ([business.atb.com](https://business.atb.com))
 
 * Architecturally responsible for the online banking application.
-* Designed and developed REST based APIs to be consumed internally and externally. APIs are document with Swagger which was used to create a centralized API library developers could use to find APIs.
+* Designed and developed REST based APIs to be consumed internally and externally. APIs are documented with Swagger which was used to create a centralized API library developers could use to find APIs.
 * Building React web applications using redux, babel, webpack, es6, and *webpack
 * Started ATB's shared "design system" of React controls.
 * Established CI/CD practices that allowed a team of more than 25 developers to transition from bi-monthly coordinated production releases to multiple production deployments a day.
-* Created RFC's, and presentations used to educate and communicate new innovative ways to create applications and leverage cloud functionality.
+* Created RFCs, and presentations used to educate and communicate new innovative ways to create applications and leverage cloud functionality.
 * Created a road map for alerting and observability
 * Curated a community of collaboration around development practices as well as establishing automated processes that enforce them.
 * Enabling manual QA process to "shift left" resulting in massively reduced effort while gaining the ability to ship hotfixes and changes to production within hours.
@@ -49,7 +49,7 @@ ATB Financial is an Alberta based financial institution servicing over 700,000 c
 
 ##### Project: ATB Prosper ([atbproster.com](https://www.atbprosper.com))
 
-* ATB Wealth project focused on providing and easy and paperless way for customers to invest without the need to meet a financial adviser in person or on the phone. 
+* ATB Wealth project focused on providing an easy and paperless way for customers to invest without the need to meet a financial adviser in person or on the phone. 
 * Full-stack development of a responsive single page application using AngularJS, CSS media queries, and flexbox.
 * Stateless Java based REST backend microservices using Spring Boot and Zuul api gateway.
 * Blue/green deployments.
@@ -62,7 +62,7 @@ ATB Financial is an Alberta based financial institution servicing over 700,000 c
 
 ### Senior System Analyst, ATCO I-Tek	
 ###### Aug 2007 – April 2015, Edmonton AB
-ATCO I-Tek was the internal IT division for group of utility and energy companies. My work focused on providing custom software solutions for their natural gas and electrical utilities.
+ATCO I-Tek was the internal IT division for a group of utility and energy companies. My work focused on providing custom software solutions for their natural gas and electrical utilities.
 
 ##### Project: Meter Data Management
 * Lead and developed solutions for Meter Data Management (MDM) with Loadstar, Oracle Utilities, and Itron IEE.
@@ -83,17 +83,17 @@ ATCO I-Tek was the internal IT division for group of utility and energy companie
 ### Team Lead / Developer, Upside Software
 ###### Sep 2005 - Aug 2007, Edmonton AB
 
-Upside Software created web based contract management software utilized by many large american customers such as John Deer and HP. I worked on an Ajax-based online document editor (think google docs, before google docs existed). I received a Development MVP award within 9 months of joining the company.
+Upside Software created web based contract management software utilized by many large American customers such as John Deer and HP. I worked on an Ajax-based online document editor (think google docs, before google docs existed). I received a Development MVP award within 9 months of joining the company.
 
 ### .NET Application Developer, Basic Frame
 ###### May 2004 - Sep 2005, Edmonton AB
 
-Basic Frame was a local startup that developer online scheduling software and third party ASP.NET Controls. During my time there I developed an award winning Custom ASP.NET Control that have been used by many large organizations (ask me about this, I have a funny story).
+Basic Frame was a local startup that developed online scheduling software and third party ASP.NET Controls. During my time there I developed an award winning Custom ASP.NET Control that has been used by many large organizations (ask me about this, I have a funny story).
 
 ### Web Application Developer, Refined Logic	
 ###### Sep 2003 - Apr 2004, Prince George BC
 
-Developed a web applications for tracking mountain pine beetles in British Columbia.
+Developed a web application for tracking mountain pine beetles in British Columbia.
 
 ### Web Developer, Floating Rock
 ###### Sep 1999 – Sep 2003, Prince George BC
@@ -111,4 +111,4 @@ Northern Alberta Institute of Technology (NAIT)
 
 _You've read all the way to the bottom... here's your reward:_ 
 
-> **Two truths and a lie**:  1️⃣ I'm a newfie 🎣 2️⃣ I love dogs 🐶 3️⃣ I've completed 2 marathons 🏃‍♂️
+> **Two truths and a lie**:  1️⃣ I'm a Newfie 🎣 2️⃣ I love dogs 🐶 3️⃣ I've completed 2 marathons 🏃‍♂️
