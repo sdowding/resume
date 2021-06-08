@@ -20,6 +20,32 @@ Aside from that "side hustle" my main duties revolve around designing and implim
 ### Senior Backend Developer, KOHO	
 ###### May 2018 - Present, Toronto ON
 
+KOHO is a Toronto based fintech focused on eliminating banking fees. It allows customers to spend cash deposits using a VISA card and pay bills.
+
+##### Project: Migrating ████ to ██████████
+
+- Currently scoping, planning, and rolling out internal API changes to enable one of the largest technical changes in KOHO's history. (I'd like to say more but it's not public yet).
+
+##### Project: Pre-Authorized Payment & Risk Replacement
+
+- Designed, implemented, and lead the replacement of the pre-authorized payment (direct deposits) system.  
+- From start to launch 3 months after my first day with no customer outages.
+- Using pub/sub for loose coupling with existing payment services.
+- Its goal was to replace manual payment review with a "risk engine" that can make smart decisions based on "factors".  
+- The existing system could not longer scale technically or manually.
+
+##### Project:  Company Level Contributions
+
+- Continually promote a culture of collaboration, "handbook-first" documentation through mentorship, writing, and presenting by leading-by-example.
+- Currently rolling out the Innersource process to my team with the hope to have it adopted company-wide if we succeed.
+- Taking solution designs to the architecture review meeting for company-level discussion and approval. Also, review proposals brought forward by other teams.
+- Documented and taught testing best practices resulting in faster running, less fragile, and more valuable tests.
+- Established a deployment process to deploy feature toggled changes to production removing the bottleneck on manual QA testing before deploying. We can now deploy in a completely automated process several times a day.
+- Migrated my team, then the rest of the company to Trunk Based Development.
+- Writing Architecture Decision Records, on solutions to pain points in the development processes that I identify.
+- Hold "talks" new processes and ideas during monthly tech days.
+- Introduces pair programming and mentoring for less experienced developers.
+
 ### Architect, ATB Financial	
 ###### May 2018 - March 2020, Edmonton AB
 
