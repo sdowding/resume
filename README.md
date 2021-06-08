@@ -15,7 +15,7 @@ Aside from that "side hustle" my main duties revolve around designing and implim
 
 `CI/CD`, `Test Automation (TDD)`, `Observability`, `Pub/Sub`, `Extreme Programming (XP)`, `Pair Programming`, `Trunk Based Development`, `Owner/Operator`, `Documentatiom`, `Working Async`, `Psychological safety`, `Mentoring & Feedback`
 
-## 💾 Experience
+## 🚀 Recent Experience
 
 ### Senior Backend Developer, KOHO	
 ###### May 2018 - Present, Toronto ON
@@ -85,48 +85,17 @@ ATB Financial is an Alberta based financial institution servicing over 700,000 c
 * Improved online banking response times by identifying bottlenecks and applying asynchronous processing to reduce overhead when calling backend systems.
 * Provide 24/7 on-call support for the online banking system.
 
-### Senior System Analyst, ATCO I-Tek	
-###### Aug 2007 – April 2015, Edmonton AB
-ATCO I-Tek was the internal IT division for a group of utility and energy companies. My work focused on providing custom software solutions for their natural gas and electrical utilities.
+## 💾 Ancient Expierene
 
-##### Project: Meter Data Management
-* Lead and developed solutions for Meter Data Management (MDM) with Loadstar, Oracle Utilities, and Itron IEE.
-* Systems used SOA and message queuing to provide asynchronous and durable commutation between integrated systems.
-* Prepared documentation for software architecture, use cases, data models, sequence diagrams, class diagrams and other UML diagrams, solution designs, detailed technical specifications, impact analysis, and application integration mapping documents. 
+I've been working for a loooooong time. If you want to know more about what I did before 2007 I'll be happy to tell you about it.
 
-##### Project: Automated Time Tracking for Field Workers
-* Real time collection of employee progress on work orders that were processed asynchronously using NServiceBus endpoints hosted as windows services.
-* Updates collected from the field works were used to automatically generate time cards, allocate overtime, and allow for work to be tracked against assets.
-* Provided an ASP.NET MVC application to allow supervisors to review, correct, and approve generated time cards.
+- Senior System Analyst, ATCO I-Tek, Aug 2007 – April 2015, Edmonton AB
+- Team Lead / Developer, Upside Software, Sep 2005 - Aug 2007, Edmonton AB
+- .NET Application Developer, Basic Frame, May 2004 - Sep 2005, Edmonton AB
+- Web Application Developer, Refined Logic, Sep 2003 - Apr 2004, Prince George BC
+- Web Developer, Floating Rock, Sep 1999 – Sep 2003, Prince George BC
 
-##### Project: Work Management & Pipeline Measurement & Reporting
-* Participating in the full application life cycle of business critical, n-tier, enterprise applications.
-* Designing, developing, maintaining and enhancing custom build technical solutions
-* Troubleshooting application issues with users and other technical teams across the enterprise.
-* Production systems support, including 24/7 on-call support, for critical enterprise applications. Application support was managed with ITIL (Problems/Incidents).
-
-### Team Lead / Developer, Upside Software
-###### Sep 2005 - Aug 2007, Edmonton AB
-
-Upside Software created web based contract management software utilized by many large American customers such as John Deer and HP. I worked on an Ajax-based online document editor (think google docs, before google docs existed). I received a Development MVP award within 9 months of joining the company.
-
-### .NET Application Developer, Basic Frame
-###### May 2004 - Sep 2005, Edmonton AB
-
-Basic Frame was a local startup that developed online scheduling software and third party ASP.NET Controls. During my time there I developed an award winning Custom ASP.NET Control that has been used by many large organizations (ask me about this, I have a funny story).
-
-### Web Application Developer, Refined Logic	
-###### Sep 2003 - Apr 2004, Prince George BC
-
-Developed a web application for tracking mountain pine beetles in British Columbia.
-
-### Web Developer, Floating Rock
-###### Sep 1999 – Sep 2003, Prince George BC
- 
-Designed user interfaces for applications and developed data-driven and e-commerce web solutions.
-
---------------------------------------------------------
-## Education
+## 🎓 Education
 
 ##### Computer Systems Technology Diploma
 
