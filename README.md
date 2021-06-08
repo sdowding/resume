@@ -9,13 +9,13 @@ I'm currently putting my 21+ years of experience to work upleveling KOHO's tech 
 
 Aside from that "side hustle" my main duties revolve around designing and implimnenting soltions that enable payments. Think taping your credit card, or getting your paycheque direct deposited. Those solutions are mission-critical APIs written in Go and deployed to AWS.
 
-### 🧰 My current toolbox:
+### 🧰 My current toolbox
 
-`JavaScript (ES6)`, `express`, `React`, `JSON`, `XML`, `CSS`, `Responsive Design`, `REST`, `Python`, `Json Web Tokens (JWT)`, `SOAP`, `Unit Testing`, `MongoDB`, `PostgreSQL`, `Java`, `Jenkins`, `Bitbucket Pipelines`, `auth0`, `OpenAPI/Swagger`, `Google Search`
+`Go / Golang`, `JavaScript (ES6)`, `express`, `React`, `JSON`, `XML`, `CSS`, `REST`, `Unit Testing / TDD`, `PostgreSQL`, `C#`, `Jenkins`, `OpenAPI/Swagger`, `GitHub`, `Google Search`
 
-### 😍 Practices I'm passionate about:
+### 😍 Practices I'm passionate about
 
-`Continuous Integration (CI)`, `Continuous Deployment (CD)`, `Test Automation (Unit Tests / e2e Test)`, `Microservices & Deployable Units`, `Static Websites`, `Monitoring and Alerting`, `Pub/Sub`, `Extreme Programming (XP)`, `Paired Programming`, `Trunk Based Development`, `Done === In-Production`, `Owner/Operator`
+`CI/CD`, `Test Automation (TDD)`, `Observability`, `Pub/Sub`, `Extreme Programming (XP)`, `Pair Programming`, `Trunk Based Development`, `Owner/Operator`, `Documentatiom`, `Working Async`, `Psychological safety`, `Mentoring & Feedback`
 
 --------------------------------------------------------
 ## Experience
