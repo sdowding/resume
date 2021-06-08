@@ -39,7 +39,7 @@ ATB Financial is an Alberta based financial institution servicing over 700,000 c
 * Enabling manual QA process to "shift left" resulting in massively reduced effort while gaining the ability to ship hotfixes and changes to production within hours.
 
 ### Senior Developer, ATB Financial	
-###### April 2015 - Present, Edmonton AB
+###### April 2015 - May 2018, Edmonton AB
 
 ATB Financial is an Alberta based financial institution servicing over 700,000 customers. My work there has focused around their online banking platforms.#
 
