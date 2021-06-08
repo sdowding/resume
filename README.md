@@ -22,11 +22,11 @@ Aside from that "side hustle" my main duties revolve around designing and implim
 
 KOHO is a Toronto based fintech focused on eliminating banking fees. It allows customers to spend cash deposits using a VISA card and pay bills.
 
-##### Project: Migrating ████ to ██████████ (redacted)
+#### Project: Migrating ████ to ██████████ (redacted)
 
 - Currently scoping, planning, and rolling out internal API changes to enable one of the largest technical changes in KOHO's history. I'd like to say more but it's not public yet.
 
-##### Project: Pre-Authorized Payment & Risk Replacement
+#### Project: Pre-Authorized Payment & Risk Replacement
 
 - Designed, implemented, and lead the replacement of the pre-authorized payment (direct deposits) system.  
 - From start to launch 3 months after my first day with no customer outages.
@@ -34,7 +34,7 @@ KOHO is a Toronto based fintech focused on eliminating banking fees. It allows c
 - Its goal was to replace manual payment review with a "risk engine" that can make smart decisions based on "factors".  
 - The existing system could not longer scale technically or manually.
 
-##### Project:  Company Level Contributions
+#### Project:  Company Level Contributions
 
 - Leading-by-example to culture of collaboration and "handbook-first" documentation through mentorship, writing, and presenting.
 - Currently rolling out the Innersource process to my team with the hope to have it adopted company-wide if we succeed.
@@ -51,7 +51,7 @@ KOHO is a Toronto based fintech focused on eliminating banking fees. It allows c
 
 ATB Financial is an Alberta based financial institution servicing over 700,000 customers. My work there has focused on their online banking platforms.
 
-##### Project: ATB Business ([business.atb.com](https://business.atb.com))
+#### Project: ATB Business ([business.atb.com](https://business.atb.com))
 
 * Architecturally responsible for the online business banking.
 * Designed and developed REST based APIs to be consumed internally and externally. APIs are documented with Swagger which was used to create a centralized API library developers could use to find APIs.
@@ -68,11 +68,11 @@ ATB Financial is an Alberta based financial institution servicing over 700,000 c
 
 ATB Financial is an Alberta based financial institution servicing over 700,000 customers. My work there has focused around their online banking platforms.#
 
-##### Project: ATB Business ([business.atb.com](https://business.atb.com))
+#### Project: ATB Business ([business.atb.com](https://business.atb.com))
 
 * Designed and developed REST based APIs to be consumed internally and externally. APIs are document with Swagger which was used to create a centralized API library developers could use to find APIs.
 
-##### Project: ATB Prosper ([atbproster.com](https://www.atbprosper.com))
+#### Project: ATB Prosper ([atbproster.com](https://www.atbprosper.com))
 
 * ATB Wealth project focused on providing an easy and paperless way for customers to invest without the need to meet a financial adviser in person or on the phone. 
 * Full-stack development of a responsive single page application using AngularJS, CSS media queries, and flexbox.
