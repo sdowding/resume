@@ -22,9 +22,9 @@ Aside from that "side hustle" my main duties revolve around designing and implim
 
 KOHO is a Toronto based fintech focused on eliminating banking fees. It allows customers to spend cash deposits using a VISA card and pay bills.
 
-##### Project: Migrating ████ to ██████████
+##### Project: Migrating ████ to ██████████ (redacted)
 
-- Currently scoping, planning, and rolling out internal API changes to enable one of the largest technical changes in KOHO's history. (I'd like to say more but it's not public yet).
+- Currently scoping, planning, and rolling out internal API changes to enable one of the largest technical changes in KOHO's history. I'd like to say more but it's not public yet.
 
 ##### Project: Pre-Authorized Payment & Risk Replacement
 
