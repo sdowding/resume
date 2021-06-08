@@ -36,7 +36,7 @@ KOHO is a Toronto based fintech focused on eliminating banking fees. It allows c
 
 ##### Project:  Company Level Contributions
 
-- Continually promote a culture of collaboration, "handbook-first" documentation through mentorship, writing, and presenting by leading-by-example.
+- Leading-by-example to culture of collaboration and "handbook-first" documentation through mentorship, writing, and presenting.
 - Currently rolling out the Innersource process to my team with the hope to have it adopted company-wide if we succeed.
 - Taking solution designs to the architecture review meeting for company-level discussion and approval. Also, review proposals brought forward by other teams.
 - Documented and taught testing best practices resulting in faster running, less fragile, and more valuable tests.
