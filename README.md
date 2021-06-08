@@ -5,7 +5,9 @@
 
 ###### 🇨🇦 Living life in Toronto &bull; dowding@gmail.com  &bull;  https://github.com/sdowding/resume
 
-You can find me delivering cloud hosted web and mobile solutions for ATB Financial (probably surrounded by empty coffee cups). I'm currently focused on transforming their web and mobile online banking experiences using React, express, and a microservices based backend. The project is delivered using Trunk Based Development and deployed using CI/CD with a heavy focus on test automation. I have over 20 years of experience creating digital solutions.
+I'm currently putting my 21+ years of experience to work upleveling KOHO's tech processes and building the engineering culture. Since joining KOHO I have streamlined the deployment pipelines and test automation processes enabling teams of ~8 developers to deploy to prod several times a day.
+
+Aside from that "side hustle" my main duties revolve around designing and implimnenting soltions that enable payments. Think taping your credit card, or getting your paycheque direct deposited. Those solutions are mission-critical APIs written in Go and deployed to AWS.
 
 ### 🧰 My current toolbox:
 
@@ -28,7 +30,7 @@ ATB Financial is an Alberta based financial institution servicing over 700,000 c
 
 ##### Project: ATB Business ([business.atb.com](https://business.atb.com))
 
-* Architecturally responsible for the online banking application.
+* Architecturally responsible for the online business banking.
 * Designed and developed REST based APIs to be consumed internally and externally. APIs are documented with Swagger which was used to create a centralized API library developers could use to find APIs.
 * Building React web applications using redux, babel, webpack, es6, and *webpack
 * Started ATB's shared "design system" of React controls.
