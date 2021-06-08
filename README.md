@@ -1,24 +1,21 @@
+# 💁‍♂️ Scott Dowding
+*A Software Developer (and amature runner) living life in Toronto* 🇨🇦 dowding@gmail.com
 
---------------------------------------------------------
-
-# Scott Dowding 👨‍💻
-
-###### 🇨🇦 Living life in Toronto &bull; dowding@gmail.com  &bull;  https://github.com/sdowding/resume
+## 👨‍💻 What I'm up to
 
 I'm currently putting my 21+ years of experience to work upleveling KOHO's tech processes and building the engineering culture. Since joining KOHO I have streamlined the deployment pipelines and test automation processes enabling teams of ~8 developers to deploy to prod several times a day.
 
 Aside from that "side hustle" my main duties revolve around designing and implimnenting soltions that enable payments. Think taping your credit card, or getting your paycheque direct deposited. Those solutions are mission-critical APIs written in Go and deployed to AWS.
 
-### 🧰 My current toolbox
+## 💪 My toolbox
 
 `Go / Golang`, `JavaScript (ES6)`, `express`, `React`, `JSON`, `XML`, `CSS`, `REST`, `Unit Testing / TDD`, `PostgreSQL`, `C#`, `Jenkins`, `OpenAPI/Swagger`, `GitHub`, `Google Search`
 
-### 😍 Practices I'm passionate about
+## 💅 My passions
 
 `CI/CD`, `Test Automation (TDD)`, `Observability`, `Pub/Sub`, `Extreme Programming (XP)`, `Pair Programming`, `Trunk Based Development`, `Owner/Operator`, `Documentatiom`, `Working Async`, `Psychological safety`, `Mentoring & Feedback`
 
---------------------------------------------------------
-## Experience
+## 💾 Experience
 
 ### Senior Backend Developer, KOHO	
 ###### May 2018 - Present, Toronto ON
