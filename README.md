@@ -1,15 +1,16 @@
 # 💁‍♂️ Scott Dowding
-*I'm a Software Developer (and amature runner) living life in Toronto* 🇨🇦 dowding@gmail.com
+
+*I'm a Software Developer (and amateur runner) living life in Toronto* 🇨🇦 dowding@gmail.com
 
 ## 👨‍💻 What I'm up to
 
-These days I'm putting my 21+ years of experience to work upleveling KOHO's tech processes and building a string engineering culture. Since joining KOHO I have streamlined the deployment and test automation processes enabling each team to deploy to prod several times a day.
+These days I'm putting my 21 years of experience to work upleveling KOHO's tech processes and building a strong engineering culture. Since joining KOHO I have streamlined the deployment and test automation processes enabling each team to deploy to prod several times a day.
 
-Aside from that "side hustle" my main duties revolve around designing and implimnenting soltions that enable payments. Think taping your credit card, or getting your paycheque direct deposited. Those solutions are mission-critical APIs written in Go and deployed to AWS.
+Aside from that "side hustle" my main duties revolve around designing and implementing solutions that enable payments. Think taping your credit card, or getting your paycheque direct deposited. Those services are mission-critical APIs written in Go and deployed on AWS.
 
 ## 💪 My toolbox
 
-`Go / Golang`, `JavaScript (ES6)`, `express`, `React`, `JSON`, `XML`, `CSS`, `REST`, `Unit Testing / TDD`, `PostgreSQL`, `C#`, `Jenkins`, `OpenAPI/Swagger`, `GitHub`, `Google Search`
+`Go / Golang`, `JavaScript (ES6)`, `express`, `React`, `JSON`, `XML`, `CSS`, `REST`, `Unit Testing / TDD`, `PostgreSQL`, `C#`, `Jenkins`, `OpenAPI/Swagger`, `GitHub`, `DataDog`, `⭐️ Google Search`
 
 ## 💅 My passions
 
@@ -18,9 +19,9 @@ Aside from that "side hustle" my main duties revolve around designing and implim
 ## 🚀 Recent Experience
 
 ### Senior Backend Developer, KOHO	
-###### May 2018 - Present, Toronto ON
+###### March 2020 - Present, Toronto ON
 
-KOHO is a Toronto based fintech focused on eliminating banking fees. It allows customers to spend cash deposits using a VISA card and pay bills.
+KOHO is a fintech focused on eliminating banking fees. It allows customers to spend cash deposits using a VISA card and pay bills.
 
 #### Project: Migrating ████ to ██████████ (redacted)
 
@@ -31,20 +32,19 @@ KOHO is a Toronto based fintech focused on eliminating banking fees. It allows c
 - Designed, implemented, and lead the replacement of the pre-authorized payment (direct deposits) system.  
 - From start to launch 3 months after my first day with no customer outages.
 - Using pub/sub for loose coupling with existing payment services.
-- Its goal was to replace manual payment review with a "risk engine" that can make smart decisions based on "factors".  
-- The existing system could not longer scale technically or manually.
 
 #### Project:  Company Level Contributions
 
-- Leading-by-example to culture of collaboration and "handbook-first" documentation through mentorship, writing, and presenting.
-- Currently rolling out the Innersource process to my team with the hope to have it adopted company-wide if we succeed.
-- Taking solution designs to the architecture review meeting for company-level discussion and approval. Also, review proposals brought forward by other teams.
-- Documented and taught testing best practices resulting in faster running, less fragile, and more valuable tests.
-- Established a deployment process to deploy feature toggled changes to production removing the bottleneck on manual QA testing before deploying. We can now deploy in a completely automated process several times a day.
+- Encouraging a culture of collaboration and "handbook-first" documentation through mentorship, writing, and presenting.
+- Rolling out an Innersource process to my team with the hope of having it adopted company-wide if successful.
+- Taking my solution designs to the architecture review meeting for company-level discussion and approval. Also, reviewing proposals brought forward by other teams.
+- Documenting and teaching testing patterns and best practices resulting in faster running, less fragile, and more valuable tests.
+- Defined a deployment process using feature toggles to remove the bottleneck on manual QA testing before deployments.
 - Migrated my team, then the rest of the company to Trunk Based Development.
-- Writing Architecture Decision Records, on solutions to pain points in the development processes that I identify.
-- Hold "talks" new processes and ideas during monthly tech days.
+- Writing Architecture Decision Records and How-To guides to address pain points in the development processes that I identify.
+- Hold tech team "talks" on new processes and ideas during monthly tech days.
 - Introduces pair programming and mentoring for less experienced developers.
+- Pairing across teams and departments during "Eng-Life Fridays" to help solve engineering problems we can't solve on our own.
 
 ### Architect, ATB Financial	
 ###### May 2018 - March 2020, Edmonton AB
@@ -53,9 +53,9 @@ ATB Financial is an Alberta based financial institution servicing over 700,000 c
 
 #### Project: ATB Business ([business.atb.com](https://business.atb.com))
 
-* Architecturally responsible for the online business banking.
+* Architecturally responsible for the online business banking app.
 * Designed and developed REST based APIs to be consumed internally and externally. APIs are documented with Swagger which was used to create a centralized API library developers could use to find APIs.
-* Building React web applications using redux, babel, webpack, es6, and *webpack
+* Building React web applications.
 * Started ATB's shared "design system" of React controls.
 * Established CI/CD practices that allowed a team of more than 25 developers to transition from bi-monthly coordinated production releases to multiple production deployments a day.
 * Created RFCs, and presentations used to educate and communicate new innovative ways to create applications and leverage cloud functionality.
@@ -65,8 +65,6 @@ ATB Financial is an Alberta based financial institution servicing over 700,000 c
 
 ### Senior Developer, ATB Financial	
 ###### April 2015 - May 2018, Edmonton AB
-
-ATB Financial is an Alberta based financial institution servicing over 700,000 customers. My work there has focused around their online banking platforms.#
 
 #### Project: ATB Business ([business.atb.com](https://business.atb.com))
 
@@ -81,11 +79,11 @@ ATB Financial is an Alberta based financial institution servicing over 700,000 c
 
 ##### Project: Online Banking ([atbonline.com](https://www.atbonline.com))
 * The online banking websites are load balanced ASP.NET WebForms applications with backend application services.
-* Developed a two-factor authentication initiative which allows ATB customers to secure their online banking transactions with a verification code sent via text message.
+* Developed a two-factor authentication initiative that allows ATB customers to secure their online banking transactions with a verification code sent via text message.
 * Improved online banking response times by identifying bottlenecks and applying asynchronous processing to reduce overhead when calling backend systems.
 * Provide 24/7 on-call support for the online banking system.
 
-## 💾 Ancient Expierene
+## 💾 Ancient Experience
 
 I've been working for a loooooong time. If you want to know more about what I did before 2007 I'll be happy to tell you about it.
 
@@ -103,6 +101,6 @@ Northern Alberta Institute of Technology (NAIT)
 
 --------------------------------------------------------
 
-_You've read all the way to the bottom... here's your reward:_ 
+_✨ You've read all the way to the bottom... here's your reward:_ 
 
-> **Two truths and a lie**:  1️⃣ I'm a Newfie 🎣 2️⃣ I love dogs 🐶 3️⃣ I've completed 2 marathons 🏃‍♂️
+> **Two truths and a lie**:  1️⃣ I'm a Newfie 🎣 2️⃣ I'm a twin 👯 3️⃣ I've completed 2 marathons 🏃‍♂️
