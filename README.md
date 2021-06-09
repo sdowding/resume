@@ -3,7 +3,7 @@
 
 ## 👨‍💻 What I'm up to
 
-I'm currently putting my 21+ years of experience to work upleveling KOHO's tech processes and building the engineering culture. Since joining KOHO I have streamlined the deployment pipelines and test automation processes enabling teams of ~8 developers to deploy to prod several times a day.
+These days I'm putting my 21+ years of experience to work upleveling KOHO's tech processes and building a string engineering culture. Since joining KOHO I have streamlined the deployment and test automation processes enabling each team to deploy to prod several times a day.
 
 Aside from that "side hustle" my main duties revolve around designing and implimnenting soltions that enable payments. Think taping your credit card, or getting your paycheque direct deposited. Those solutions are mission-critical APIs written in Go and deployed to AWS.
 
