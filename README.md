@@ -101,6 +101,6 @@ Northern Alberta Institute of Technology (NAIT)
 
 --------------------------------------------------------
 
-_✨ You've read all the way to the bottom... here's your reward:_ 
+_✨ Wow, you've read all the way to the bottom... here's your reward:_ 
 
 > **Two truths and a lie**:  1️⃣ I'm a Newfie 🎣 2️⃣ I'm a twin 👯 3️⃣ I've completed 2 marathons 🏃‍♂️
