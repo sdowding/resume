@@ -1,3 +1,4 @@
+
 # 💁‍♂️ Scott Dowding
 
 > I'm a Software Developer (and amateur runner) living life in Toronto 🇨🇦 dowding@gmail.com
@@ -22,7 +23,7 @@ Aside from that "side hustle" my main duties revolve around designing and implem
 
 ###### March 2020 - Present, Toronto ON
 
-KOHO is a fintech focused on eliminating banking fees. It allows customers to spend cash deposits using a VISA card and pay bills.
+KOHO is a fintech focused on eliminating banking fees. It allows customers to fund and spend for a cash account using a VISA card.
 
 #### Project: Migrating ████ to ██████████ (redacted)
 
@@ -30,9 +31,9 @@ KOHO is a fintech focused on eliminating banking fees. It allows customers to sp
 
 #### Project: Pre-Authorized Payment & Risk Replacement
 
-- Designed, implemented, and lead the replacement of the pre-authorized payment (direct deposits) system.
-- From start to launch 3 months after my first day with no customer outages.
-- Using pub/sub for loose coupling with existing payment services.
+- Designed, implemented, and lead the replacement of an existing system build around manual processes.
+- Went from start to launch 3 months after my first day with no customer outages.
+- Uses pub/sub for loose coupling with existing payment services.
 
 #### Project: Company Level Contributions
 
@@ -42,8 +43,8 @@ KOHO is a fintech focused on eliminating banking fees. It allows customers to sp
 - Documenting and teaching testing patterns and best practices resulting in faster running, less fragile, and more valuable tests.
 - Defined a deployment process using feature toggles to remove the bottleneck on manual QA testing before deployments.
 - Migrated my team, then the rest of the company to Trunk Based Development.
-- Writing Architecture Decision Records and How-To guides to address pain points in the development processes that I identify.
-- Hold tech team "talks" on new processes and ideas during monthly tech days.
+- Writing Architecture Decision Records and How-To guides to address pain points in the development processes as I identify them.
+- Hold tech team "talks" on new processes and ideas during monthly tech days. Presenting with one of my mentees when possible.
 - Introduces pair programming and mentoring for less experienced developers.
 - Pairing across teams and departments during "Eng-Life Fridays" to help solve engineering problems we can't solve on our own.
 
