@@ -68,17 +68,17 @@ ATB Financial is an Alberta based financial institution servicing over 700,000 c
 
 #### Project: ATB Business ([business.atb.com](https://business.atb.com))
 
-* Designed and developed REST based APIs to be consumed internally and externally. APIs are document with Swagger which was used to create a centralized API library developers could use to find APIs.
+* Designed and developed REST based APIs to be consumed internally and externally. APIs are documented with Swagger which was used to create a centralized API library developers could use to find APIs.
 
 #### Project: ATB Prosper ([atbproster.com](https://www.atbprosper.com))
 
 * ATB Wealth project focused on providing an easy and paperless way for customers to invest without the need to meet a financial adviser in person or on the phone. 
-* Full-stack development of a responsive single page application using AngularJS, CSS media queries, and flexbox.
+* Full-stack development of a responsive single-page application using AngularJS, CSS media queries, and flexbox.
 * Stateless Java based REST backend microservices using Spring Boot and Zuul api gateway.
 * Blue/green deployments.
 
 ##### Project: Online Banking ([atbonline.com](https://www.atbonline.com))
-* The online banking websites are load balanced ASP.NET WebForms applications with backend application services.
+* The online banking websites are load-balanced ASP.NET WebForms applications with backend application services.
 * Developed a two-factor authentication initiative that allows ATB customers to secure their online banking transactions with a verification code sent via text message.
 * Improved online banking response times by identifying bottlenecks and applying asynchronous processing to reduce overhead when calling backend systems.
 * Provide 24/7 on-call support for the online banking system.
