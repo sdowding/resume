@@ -1,6 +1,6 @@
 # 💁‍♂️ Scott Dowding
 
-*I'm a Software Developer (and amateur runner) living life in Toronto* 🇨🇦 dowding@gmail.com
+_I'm a Software Developer (and amateur runner) living life in Toronto_ 🇨🇦 dowding@gmail.com
 
 ## 👨‍💻 What I'm up to
 
@@ -18,7 +18,8 @@ Aside from that "side hustle" my main duties revolve around designing and implem
 
 ## 🚀 Recent Experience
 
-### Senior Backend Developer, KOHO	
+### Senior Backend Developer, KOHO
+
 ###### March 2020 - Present, Toronto ON
 
 KOHO is a fintech focused on eliminating banking fees. It allows customers to spend cash deposits using a VISA card and pay bills.
@@ -29,11 +30,11 @@ KOHO is a fintech focused on eliminating banking fees. It allows customers to sp
 
 #### Project: Pre-Authorized Payment & Risk Replacement
 
-- Designed, implemented, and lead the replacement of the pre-authorized payment (direct deposits) system.  
+- Designed, implemented, and lead the replacement of the pre-authorized payment (direct deposits) system.
 - From start to launch 3 months after my first day with no customer outages.
 - Using pub/sub for loose coupling with existing payment services.
 
-#### Project:  Company Level Contributions
+#### Project: Company Level Contributions
 
 - Encouraging a culture of collaboration and "handbook-first" documentation through mentorship, writing, and presenting.
 - Rolling out an Innersource process to my team with the hope of having it adopted company-wide if successful.
@@ -46,42 +47,45 @@ KOHO is a fintech focused on eliminating banking fees. It allows customers to sp
 - Introduces pair programming and mentoring for less experienced developers.
 - Pairing across teams and departments during "Eng-Life Fridays" to help solve engineering problems we can't solve on our own.
 
-### Architect, ATB Financial	
+### Architect, ATB Financial
+
 ###### May 2018 - March 2020, Edmonton AB
 
 ATB Financial is an Alberta based financial institution servicing over 700,000 customers. My work there has focused on their online banking platforms.
 
 #### Project: ATB Business ([business.atb.com](https://business.atb.com))
 
-* Architecturally responsible for the online business banking app.
-* Designed and developed REST based APIs to be consumed internally and externally. APIs are documented with Swagger which was used to create a centralized API library developers could use to find APIs.
-* Building React web applications.
-* Started ATB's shared "design system" of React controls.
-* Established CI/CD practices that allowed a team of more than 25 developers to transition from bi-monthly coordinated production releases to multiple production deployments a day.
-* Created RFCs, and presentations used to educate and communicate new innovative ways to create applications and leverage cloud functionality.
-* Created a road map for alerting and observability
-* Curated a community of collaboration around development practices as well as establishing automated processes that enforce them.
-* Enabling manual QA process to "shift left" resulting in massively reduced effort while gaining the ability to ship hotfixes and changes to production within hours.
+- Architecturally responsible for the online business banking app.
+- Designed and developed REST based APIs to be consumed internally and externally. APIs are documented with Swagger which was used to create a centralized API library developers could use to find APIs.
+- Building React web applications.
+- Started ATB's shared "design system" of React controls.
+- Established CI/CD practices that allowed a team of more than 25 developers to transition from bi-monthly coordinated production releases to multiple production deployments a day.
+- Created RFCs, and presentations used to educate and communicate new innovative ways to create applications and leverage cloud functionality.
+- Created a road map for alerting and observability
+- Curated a community of collaboration around development practices as well as establishing automated processes that enforce them.
+- Enabling manual QA process to "shift left" resulting in massively reduced effort while gaining the ability to ship hotfixes and changes to production within hours.
 
-### Senior Developer, ATB Financial	
+### Senior Developer, ATB Financial
+
 ###### April 2015 - May 2018, Edmonton AB
 
 #### Project: ATB Business ([business.atb.com](https://business.atb.com))
 
-* Designed and developed REST based APIs to be consumed internally and externally. APIs are documented with Swagger which was used to create a centralized API library developers could use to find APIs.
+- Designed and developed REST based APIs to be consumed internally and externally. APIs are documented with Swagger which was used to create a centralized API library developers could use to find APIs.
 
 #### Project: ATB Prosper ([atbproster.com](https://www.atbprosper.com))
 
-* ATB Wealth project focused on providing an easy and paperless way for customers to invest without the need to meet a financial adviser in person or on the phone. 
-* Full-stack development of a responsive single-page application using AngularJS, CSS media queries, and flexbox.
-* Stateless Java based REST backend microservices using Spring Boot and Zuul api gateway.
-* Blue/green deployments.
+- ATB Wealth project focused on providing an easy and paperless way for customers to invest without the need to meet a financial adviser in person or on the phone.
+- Full-stack development of a responsive single-page application using AngularJS, CSS media queries, and flexbox.
+- Stateless Java based REST backend microservices using Spring Boot and Zuul api gateway.
+- Blue/green deployments.
 
 ##### Project: Online Banking ([atbonline.com](https://www.atbonline.com))
-* The online banking websites are load-balanced ASP.NET WebForms applications with backend application services.
-* Developed a two-factor authentication initiative that allows ATB customers to secure their online banking transactions with a verification code sent via text message.
-* Improved online banking response times by identifying bottlenecks and applying asynchronous processing to reduce overhead when calling backend systems.
-* Provide 24/7 on-call support for the online banking system.
+
+- The online banking websites are load-balanced ASP.NET WebForms applications with backend application services.
+- Developed a two-factor authentication initiative that allows ATB customers to secure their online banking transactions with a verification code sent via text message.
+- Improved online banking response times by identifying bottlenecks and applying asynchronous processing to reduce overhead when calling backend systems.
+- Provide 24/7 on-call support for the online banking system.
 
 ## 💾 Ancient Experience
 
@@ -97,10 +101,10 @@ I've been working for a loooooong time. If you want to know more about what I di
 
 ##### Computer Systems Technology Diploma
 
-Northern Alberta Institute of Technology (NAIT) 
+Northern Alberta Institute of Technology (NAIT)
 
---------------------------------------------------------
+---
 
-_✨ Wow, you've read all the way to the bottom... here's your reward:_ 
+_✨ Wow, you've read all the way to the bottom... here's your reward:_
 
-> **Two truths and a lie**:  1️⃣ I'm a Newfie 🎣 2️⃣ I'm a twin 👯 3️⃣ I've completed 2 marathons 🏃‍♂️
+> **Two truths and a lie**: 1️⃣ I'm a Newfie 🎣 2️⃣ I'm a twin 👯 3️⃣ I've completed 2 marathons 🏃‍♂️
