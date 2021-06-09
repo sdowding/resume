@@ -1,6 +1,6 @@
 # 💁‍♂️ Scott Dowding
 
-_I'm a Software Developer (and amateur runner) living life in Toronto_ 🇨🇦 dowding@gmail.com
+> I'm a Software Developer (and amateur runner) living life in Toronto 🇨🇦 dowding@gmail.com
 
 ## 👨‍💻 What I'm up to
 
@@ -47,7 +47,7 @@ KOHO is a fintech focused on eliminating banking fees. It allows customers to sp
 - Introduces pair programming and mentoring for less experienced developers.
 - Pairing across teams and departments during "Eng-Life Fridays" to help solve engineering problems we can't solve on our own.
 
-### Solution Architect / Development Lead, ATB Financial
+### Architect, ATB Financial
 
 ###### May 2018 - March 2020, Edmonton AB
 
@@ -80,13 +80,6 @@ ATB Financial is an Alberta based financial institution servicing over 700,000 c
 - Stateless Java based REST backend microservices using Spring Boot and Zuul api gateway.
 - Blue/green deployments.
 
-##### Project: Online Banking ([atbonline.com](https://www.atbonline.com))
-
-- The online banking websites are load-balanced ASP.NET WebForms applications with backend application services.
-- Developed a two-factor authentication initiative that allows ATB customers to secure their online banking transactions with a verification code sent via text message.
-- Improved online banking response times by identifying bottlenecks and applying asynchronous processing to reduce overhead when calling backend systems.
-- Provide 24/7 on-call support for the online banking system.
-
 ## 💾 Ancient Experience
 
 I've been working for a loooooong time. If you want to know more about what I did before 2007 I'll be happy to tell you about it.
@@ -99,12 +92,12 @@ I've been working for a loooooong time. If you want to know more about what I di
 
 ## 🎓 Education
 
-##### Computer Systems Technology Diploma
+**Computer Systems Technology Diploma**, Northern Alberta Institute of Technology (NAIT)
 
-Northern Alberta Institute of Technology (NAIT)
+## ✨ Two truths and a lie
 
----
+Wow... you've read all the way to the bottom. Good-on-ya.
 
-_✨ Wow, you've read all the way to the bottom... here's your reward:_
-
-> **Two truths and a lie**: 1️⃣ I'm a Newfie 🎣 2️⃣ I'm a twin 👯 3️⃣ I've completed 2 marathons 🏃‍♂️
+    1️⃣ I'm a Newfie 🎣
+    2️⃣ I'm a twin 👯
+    3️⃣ I've completed 2 marathons 🏃‍♂️
