@@ -47,7 +47,7 @@ KOHO is a fintech focused on eliminating banking fees. It allows customers to sp
 - Introduces pair programming and mentoring for less experienced developers.
 - Pairing across teams and departments during "Eng-Life Fridays" to help solve engineering problems we can't solve on our own.
 
-### Architect, ATB Financial
+### Solution Architect / Development Lead, ATB Financial
 
 ###### May 2018 - March 2020, Edmonton AB
 
