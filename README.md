@@ -15,7 +15,7 @@ Aside from that "side hustle" my main duties revolve around designing and implem
 
 ## 💅 My passions
 
-`CI/CD`, `Test Automation (TDD)`, `Observability`, `Pub/Sub`, `Extreme Programming (XP)`, `Pair Programming`, `Trunk Based Development`, `Owner/Operator`, `Documentatiom`, `Working Async`, `Psychological safety`, `Mentoring & Feedback`
+`CI/CD`, `Test Automation (TDD)`, `Observability`, `Pub/Sub`, `Extreme Programming (XP)`, `Pair Programming`, `Trunk Based Development`, `Owner/Operator`, `Documentation`, `Working Async`, `Psychological safety`, `Mentoring & Feedback`
 
 ## 🚀 Recent Experience
 
@@ -31,7 +31,7 @@ KOHO is a fintech focused on eliminating banking fees. It allows customers to fu
 
 #### Project: Pre-Authorized Payment & Risk Replacement
 
-- Designed, implemented, and lead the replacement of an existing system build around manual processes.
+- Designed, implemented, and led the replacement of an existing system build around manual processes.
 - Went from start to launch 3 months after my first day with no customer outages.
 - Uses pub/sub for loose coupling with existing payment services.
 
