@@ -1,7 +1,6 @@
-
 # 💁‍♂️ Scott Dowding
 
-> I'm a Software Developer (and amateur runner) living life in Toronto 🇨🇦 dowding@gmail.com
+> I'm a Software Developer (and amateur runner) living in Toronto 🇨🇦 dowding@gmail.com
 
 ## 👨‍💻 What I'm up to
 
@@ -23,7 +22,7 @@ Aside from that "side hustle" my main duties revolve around designing and implem
 
 ###### March 2020 - Present, Toronto ON
 
-KOHO is a fintech focused on eliminating banking fees. It allows customers to fund and spend for a cash account using a VISA card.
+KOHO is focused on eliminating banking fees in Canada. It allows customers to fund and spend for a cash account using a VISA card.
 
 #### Project: Migrating ████ to ██████████ (redacted)
 
