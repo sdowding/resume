@@ -4,9 +4,11 @@
 
 ## 👨‍💻 What I'm up to
 
-Currently putting my 21 years of experience to work upleveling KOHO's tech processes and engineering culture. Since joining them I've streamlined deployment and test automation processes enabling each team to deploy to prod several times a day.
+Currently putting my 21 years of experience to work leveling up KOHO's tech processes and engineering culture. 
 
-Aside from that "side hustle" my main duties revolve around designing and implementing solutions that enable payments. Think taping your credit card, or getting your paycheque as a direct deposit. Those services are mission-critical APIs written in Go and deployed on AWS.
+My main duties revolve around designing and implementing solutions that enable payments. Think tapping your credit card, or getting your paycheque as a direct deposit. Those services are mission-critical APIs written in Go and deployed on AWS.
+
+Since joining the team, my "side-hustle" has been to streamline deployment and test automation processes. This has enabled each team to deploy to production several times a day.
 
 ## 💪 My toolbox
 
@@ -30,9 +32,9 @@ KOHO is focused on eliminating banking fees in Canada. It allows customers to fu
 
 #### Project: Pre-Authorized Payment & Risk Replacement
 
-- Designed, implemented, and led the replacement of an existing system build around manual processes.
+- Designed, implemented, and led the replacement of an existing system built around a manual processes.
 - Went from start to launch 3 months after my first day with no customer outages.
-- Uses pub/sub for loose coupling with existing payment services.
+- This system implements pub/sub for loose coupling with existing payment services.
 
 #### Project: Company Level Contributions
 
@@ -44,14 +46,14 @@ KOHO is focused on eliminating banking fees in Canada. It allows customers to fu
 - Migrated my team, then the rest of the company to Trunk Based Development.
 - Writing Architecture Decision Records and How-To guides to address pain points in the development processes as I identify them.
 - Hold tech team "talks" on new processes and ideas during monthly tech days. Presenting with one of my mentees when possible.
-- Introduces pair programming and mentoring for less experienced developers.
-- Pairing across teams and departments during "Eng-Life Fridays" to help solve engineering problems we can't solve on our own.
+- Introduced pair programming and mentoring for less experienced developers.
+- Pairing across teams and departments during "Eng-Life Fridays" to help solve unique engineering problems we can't solve on our own.
 
 ### Solution Architect / Development Lead, ATB Financial
 
 ###### May 2018 - March 2020, Edmonton AB
 
-ATB Financial is an Alberta based financial institution servicing over 700,000 customers. My work there has focused on their online banking platforms.
+ATB Financial is an Alberta based financial institution servicing over 700,000 customers. My work there was focused on their online banking platforms.
 
 #### Project: ATB Business ([business.atb.com](https://business.atb.com))
 
