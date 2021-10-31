@@ -43,7 +43,7 @@ KOHO is focused on eliminating banking fees in Canada. It allows customers to fu
 - Migrated my team, then the rest of the company to Trunk Based Development.
 - Writing Architecture Decision Records and How-To guides to address pain points in the development processes as I identify them.
 - Hold tech team "talks" on new processes and ideas during monthly tech days. Presenting with one of my mentees when possible.
-- Introduces pair programming and mentoring for less experienced developers.
+- Introduced pair programming and mentoring for less experienced developers.
 - Pairing across teams and departments during "Eng-Life Fridays" to help solve engineering problems we can't solve on our own.
 
 ### Solution Architect / Development Lead, ATB Financial
