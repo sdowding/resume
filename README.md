@@ -18,9 +18,8 @@ Aside from that "side hustle" my main duties revolve around designing and implem
 
 ## 🚀 Recent Experience
 
-### Senior Backend Developer, KOHO
-
-###### March 2020 - Present, Toronto ON
+### Staff Software Developer, KOHO, Jul 2021 - Present
+##### Senior Backend Developer, KOHO, Mar 2020
 
 KOHO is focused on eliminating banking fees in Canada. It allows customers to fund and spend for a cash account using a VISA card.
 
