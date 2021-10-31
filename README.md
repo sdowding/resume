@@ -5,7 +5,7 @@
 ## 👨‍💻 What I'm up to
 
 Currently putting my 21 years of experience to work upleveling KOHO's tech processes and engineering culture. Since joining them I've streamlined deployment and test automation processes enabling each team to deploy to prod several times a day.
-
+ 
 Aside from that "side hustle" my main duties revolve around designing and implementing solutions that enable payments. Think taping your credit card, or getting your paycheque as a direct deposit. Those services are mission-critical APIs written in Go and deployed on AWS.
 
 ## 💪 My toolbox
@@ -29,9 +29,9 @@ KOHO is focused on eliminating banking fees in Canada. It allows customers to fu
 
 #### Project: Pre-Authorized Payment & Risk Replacement
 
-- Designed, implemented, and led the replacement of an existing system build around manual processes.
+- Designed, implemented, and led the replacement of an existing system built around a manual processes.
 - Went from start to launch 3 months after my first day with no customer outages.
-- Uses pub/sub for loose coupling with existing payment services.
+- Event based design (pub/sub) for loose coupling with the existing payment services.
 
 #### Project: Company Level Contributions
 
