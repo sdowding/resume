@@ -23,9 +23,9 @@ Aside from that "side hustle" my main duties revolve around designing and implem
 
 KOHO is focused on eliminating banking fees in Canada. It allows customers to fund and spend for a cash account using a VISA card.
 
-#### Project: Migrating ████ to ██████████ (redacted)
+#### Project: Migrating Visa to Mastercard
 
-- Currently scoping, planning, and rolling out internal API changes to enable one of the largest technical changes in KOHO's history. I'd like to say more but it's not public yet.
+- Currently scoping, planning, and rolling out internal API changes to enable one of the largest technical changes in KOHO's history.
 
 #### Project: Pre-Authorized Payment & Risk Replacement
 
