@@ -1,6 +1,6 @@
 # 💁‍♂️ Scott Dowding
 
-> I'm a Software Developer (and amateur runner) living in Toronto 🇨🇦 scott@dowding.ca
+> I'm a Software Developer (and amateur runner) living in Toronto 🇨🇦 <scott@dowding.ca>
 
 ## 👨‍💻 What I'm up to
 
