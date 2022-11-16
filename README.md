@@ -1,16 +1,14 @@
-# 💁‍♂️ Scott Dowding
+# Scott Dowding
 
 > I'm a Software Developer (and amateur runner) living in Toronto 🇨🇦 <scott@dowding.ca>
 
 ## 👨‍💻 What I'm up to
 
-Currently putting my 21 years of experience to work upleveling KOHO's tech processes and engineering culture. Since joining them I've streamlined deployment and test automation processes enabling each team to deploy to prod several times a day.
- 
-Aside from that "side hustle", my main duties revolve around designing and implementing solutions that enable payments. Think taping your credit card, or getting your paycheque as a direct deposit. Those services are mission-critical APIs written in Go and deployed on AWS.
+Currently putting my 23 years of experience to work at HelloFresh designing and developing tech that enables them to launch new products and lines of business.
 
 ## 💪 My toolbox
 
-`Go / Golang`, `JavaScript (ES6)`, `express`, `React`, `JSON`, `XML`, `CSS`, `REST`, `Unit Testing / TDD`, `PostgreSQL`, `C#`, `Jenkins`, `OpenAPI/Swagger`, `GitHub`, `DataDog`, `⭐️ Google Search`
+`AWS`, `Go / Golang`, `JavaScript (ES6)`, `express`, `React`, `JSON`, `XML`, `CSS`, `REST`, `Unit Testing / TDD`, `PostgreSQL`, `C#`, `Jenkins`, `OpenAPI/Swagger`, `Protobug`, `Node.js` `GitHub`, `DataDog`, `⭐️ Google Search`
 
 ## 💅 My passions
 
@@ -18,22 +16,37 @@ Aside from that "side hustle", my main duties revolve around designing and imple
 
 ## 🚀 Recent Experience
 
-### Staff Software Developer, KOHO, Jul 2021 - Present
-##### Senior Backend Developer, KOHO, Mar 2020
+### Senior Staff Engineer, HelloFresh, Jul 2022 - Present
+
+A global meal kit company, operating many brands in over 10 countries.
+
+#### Project: Enabling a new ██ ███ subscription brand
+
+- Currently architecting solutions and creating proof of concepts to enable HelloFresh to launch a new line of business that helps them expand beyond meal kits for the first time.
+
+#### Company-Level Contributions
+
+- Creating and hosting a backend development community for North American developers.
+- Mentoring other developers in my alliance.
+- Refining and contributing to the RFC process for solution design.
+- Teaching and enabling TDD to enable faster developer turnaround.
+- Reviwing technical feasability during acquisitions.
+
+### Staff Software Developer, KOHO, Mar 2020 - June 2022
 
 KOHO is focused on eliminating banking fees in Canada. It allows customers to fund and spend for a cash account using a VISA card.
 
 #### Project: Migrating Visa to Mastercard
 
-- Currently scoping, planning, and rolling out internal API changes to enable one of the largest technical changes in KOHO's history.
+- Scoping, planning, and rolling out internal API changes to enable switching card networks.
 
 #### Project: Pre-Authorized Payment & Risk Replacement
 
-- Designed, implemented, and led the replacement of an existing system built around a manual processes.
+- Designed, implemented, and led the replacement of an existing system built around a manual process.
 - Went from start to launch 3 months after my first day with no customer outages.
-- Event based design (pub/sub) for loose coupling with the existing payment services.
+- Event-based design for loose coupling with the existing payment services.
 
-#### Project: Company Level Contributions
+#### Company-Level Contributions
 
 - Encouraging a culture of collaboration and "handbook-first" documentation through mentorship, writing, and presenting.
 - Rolling out an Innersource process to my team with the hope of having it adopted company-wide if successful.
@@ -50,7 +63,7 @@ KOHO is focused on eliminating banking fees in Canada. It allows customers to fu
 
 ###### May 2018 - March 2020, Edmonton AB
 
-ATB Financial is an Alberta based financial institution servicing over 700,000 customers. My work there has focused on their online banking platforms.
+ATB Financial is an Alberta-based financial institution servicing over 700,000 customers. My work there has focused on their online banking platforms.
 
 #### Project: ATB Business ([business.atb.com](https://business.atb.com))
 
@@ -61,7 +74,7 @@ ATB Financial is an Alberta based financial institution servicing over 700,000 c
 - Established CI/CD practices that allowed a team of more than 25 developers to transition from bi-monthly coordinated production releases to multiple production deployments a day.
 - Created RFCs, and presentations used to educate and communicate new innovative ways to create applications and leverage cloud functionality.
 - Created a road map for alerting and observability
-- Curated a community of collaboration around development practices as well as establishing automated processes that enforce them.
+- Curated a community of collaboration around development practices as well as established automated processes that enforce them.
 - Enabling manual QA process to "shift left" resulting in massively reduced effort while gaining the ability to ship hotfixes and changes to production within hours.
 
 ### Senior Developer, ATB Financial
