@@ -8,7 +8,7 @@ Currently putting my 23 years of experience to work at HelloFresh designing and 
 
 ## 💪 My toolbox
 
-`AWS`, `Go / Golang`, `JavaScript (ES6)`, `express`, `React`, `JSON`, `XML`, `CSS`, `REST`, `Unit Testing / TDD`, `PostgreSQL`, `C#`, `Jenkins`, `OpenAPI/Swagger`, `Protobug`, `Node.js` `GitHub`, `DataDog`, `⭐️ Google Search`
+`AWS`, `Go / Golang`, `JavaScript (ES6)`, `express`, `React`, `JSON`, `XML`, `CSS`, `REST`, `Unit Testing / TDD`, `PostgreSQL`, `C#`, `Jenkins`, `OpenAPI/Swagger`, `Protobuf`, `Node.js` `GitHub`, `DataDog`, `⭐️ Google Search`
 
 ## 💅 My passions
 
